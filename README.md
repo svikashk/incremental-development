@@ -11,22 +11,15 @@ and each builds upon the previous version by adding user-visible functionality."
 * [Module Summary](#module-summary)
 * [Learning Objectives](#learning-objectives)
 * [Module Projects](#module-projects)
-* [Week 1](./week-1/README.md)
-  * [Prep Work](./week-1/README.md#prep-work)
-  * [Lesson Plan](./week-1/README.md#lesson-plan)
-  * [Assignments](./week-1/README.md#assignments)
-* [Week 2](./week-2/README.md)
-  * [Prep Work](./week-2/README.md#prep-work)
-  * [Lesson Plan](./week-2/README.md#lesson-plan)
-  * [Assignments](./week-2/README.md#assignments)
-* [Week 3](./week-3/README.md)
-  * [Prep Work](./week-3/README.md#prep-work)
-  * [Lesson Plan](./week-3/README.md#lesson-plan)
-  * [Assignments](./week-3/README.md#assignments)
-* [Isolate](./isolate) - examples and exercises
-* [Integrate](./integrate) - projects to study
-* [Class Recordings](./class-recordings.md)
-* [Study Links](https://study.hackyourfuture.be) (external)
+* Weekly Details:
+  * [Week 1](./week-1/README.md)
+  * [Week 2](./week-2/README.md)
+  * [Week 3](./week-3/README.md)
+* Study Materials:
+  * [Isolate](./isolate/README.md) - examples and exercises
+  * [Integrate](./integrate/README.md) - projects to study
+  * [Class Recordings](./class-recordings.md)
+  * [Study Links](https://study.hackyourfuture.be) (external)
 * [Curriculum](https://home.hackyourfuture.be/curriculum) (external)
 * [HYF Home](https://home.hackyourfuture.be/) (external)
 
