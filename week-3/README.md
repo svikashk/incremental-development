@@ -1,9 +1,10 @@
-# Week X
+# Incremental Development
 
-[<< Week x-1 || README]() | [Week X+1]()
+[<< Week 2](../week-2/README.md) | [Main Page](../README.md)
 
-## Module Name
+## Week 3
 
+* [Learning Objectives](#learning-objectives)
 * [Prep Work](#prep-work)
 * [Lesson Plan](#lesson-plan)
   * [Isolate](#isolate)
@@ -15,6 +16,12 @@
 
 ---
 
+## Learning Objectives
+
+... specifically for this week
+
+---
+
 ## Prep Work
 
 ... things to read/watch/try before coming in on sunday ...
@@ -23,7 +30,7 @@
 
 ## Lesson Plan
 
-> [Lesson Plan Slides](https://hackyourfuture.be/module-name/week-X)
+> [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3)
 
 ... a few words ...
 
