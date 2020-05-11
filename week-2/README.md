@@ -18,14 +18,16 @@
 
 ## Learning Objectives
 
-... specifically for this week
+* Creating responsive designs
+* Using Pull Requests for collaboration
 
 ---
 
-
 ## Prep Work
 
-... things to read/watch/try before coming in on sunday ...
+### HTML & CSS
+
+* [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
 
 ---
 
@@ -33,55 +35,58 @@
 
 > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-2)
 
-... a few words ...
+Incrementally develop a simple responsive web page.
 
 ### Isolate
 
-* \_: [examples](../isolate/_/REVIEW.md), [exercises](../isolate/_/REVIEW.md)
+* Given a `development-strategy.md`, build the repository
 
 ### Integrate
 
-* \_: [stepped](../integrate/_), [separated](../integrate/_)
-* [\_](https://github.com/hackyourfuturebelgium/coming-soon) (starter repo)
+* [be-responsive](https://github.com/hackyourfuturebelgium/be-responsive) (starter repo)
 
 ---
 
 ## Assignments
 
-> Before getting started on the homework, take a minute to set up your [Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues) on this module's project board.
-
 ### Suggested Study
 
-* [\_](_)
+#### Git & GitHub
 
+- [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [git-it](https://github.com/jlord/git-it-electron/)
+
+#### HTML & CSS
+
+- [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
+- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
 ### Exercises
 
-#### Isolate
-
-* emoji leveling
-* links to exercises. repositories, tutorial sites, ...
-* [\_](https://github.com/hackyourfuturebelgium/coming-soon)
-
-#### Integrate
-
-* emoji leveling
-* Finish the in-class project from Sunday
-* other tiny projects, preferably collaborative
+- :egg: [html-css-git-exercises](https://github.com/CodeYourFuture/html-css-git-exercises) - Week 2
+  - Complete the exercises in `week-2`
+  - Push your work regularly to GitHub
+- :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
+- :hatching_chick: [css-exercises](https://github.com/dangodev/css-exercises)
 
 ### Project
 
-#### `repo-name`
+#### `app-theme`
 
-> [project type](https://home.hackyourfuture.be/students/homework-submission#projects)
+> [Code-Along](http://hackyourfuture.be/homework-submission/#projects)
 
-This week's project is to study the [link to project (starter repo, tutorial, ...)](_).  _more about the project, what it covers, any extra info_
+This week's project is to study the __app-theme__ tutorial from Traversy Media.
 
-You will be expected to turn in your code from his tutorial on a new repository called `repo-name`.  This should be a complete project repository including:
+Writing the same code as Mr. Traversy's code is not enough!  You will be expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/acme-web-design), cleanly organized with one branch per step.  It's up to you to write the development strategy!
 
-* A `development-strategy.md` file to explain how you built the app in small pieces (this file doesn't need to match the tutorial!)
-* One branch per step in your `development-strategy.md`
-* _something about how to organize the code_
-* _any more requirements_
+You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, and the completeness of your repository. Your repository must contain:
 
-You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, the organization of your code, and the completeness of your README.
+* A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+* One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
+* A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
+
+There are two general paths you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
+
+* __Two-Stepping__: First - follow the tutorial studying the code and understanding the project.  Second - go through the tutorial another time, this time around focusing on using branches to create a finished repository.
+* __One-Stepping__: Follow the tutorial once more slowly, carefully building your finished repository as you go.

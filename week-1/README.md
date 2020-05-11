@@ -99,10 +99,17 @@ Build _another_ group intro repository?!  But this time you'll use branches and 
 
 ### Suggested Study
 
-- [inspecting-the-dom](https://hackyourfuture.be/inspecting-the-dom)
+#### Git & GitHub
+
+- [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [git-it](https://github.com/jlord/git-it-electron/)
 - [learngitbranching](https://learngitbranching.js.org)
-- [FCC Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+
+#### HTML & CSS
+
+- [inspecting-the-dom](https://hackyourfuture.be/inspecting-the-dom)
+- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
+- [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
 ### Exercises
 
