@@ -33,7 +33,7 @@
 
 > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3)
 
-Practice
+Collaborate to create an accessible web page.
 
 ### Isolate
 

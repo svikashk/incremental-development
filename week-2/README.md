@@ -4,30 +4,39 @@
 
 ## Week 2
 
-* [Learning Objectives](#learning-objectives)
-* [Prep Work](#prep-work)
-* [Lesson Plan](#lesson-plan)
-  * [Isolate](#isolate)
-  * [Integrate](#integrate)
-* [Assignments](#assignments)
-  * [Suggested Study](#suggested-study)
-  * [Exercises](#exercises)
-  * [Project](#project)
+- [Learning Objectives](#learning-objectives)
+- [Prep Work](#prep-work)
+- [Lesson Plan](#lesson-plan)
+  - [Isolate](#isolate)
+  - [Integrate](#integrate)
+- [Assignments](#assignments)
+  - [Suggested Study](#suggested-study)
+  - [Exercises](#exercises)
+  - [Project](#project)
 
 ---
 
 ## Learning Objectives
 
-* Creating responsive designs
-* Using Pull Requests for collaboration
+- Creating responsive designs
+- Using the CLI to work with files
 
 ---
 
 ## Prep Work
 
+### CLI
+
+- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- CLI games:
+  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
+  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
+  - [iTerm](https://sr6033.github.io/lterm/) - online
+- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+
 ### HTML & CSS
 
-* [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
+- [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
 
 ---
 
@@ -39,11 +48,14 @@ Incrementally develop a simple responsive web page.
 
 ### Isolate
 
-* Given a `development-strategy.md`, build the repository
+- Practice using your computer's CLI by [replicating this folder structure](https://github.com/HackYourFutureBelgium/replicate-this-from-command-line) using only terminal commands.
 
 ### Integrate
 
-* [be-responsive](https://github.com/hackyourfuturebelgium/be-responsive) (starter repo)
+- [be-responsive](https://github.com/hackyourfuturebelgium/be-responsive) (starter repo)
+  - Create a basic HTML/CSS website that matches this layout
+  - Use branches!
+  - And try to do as much as you can from CLI
 
 ---
 
@@ -82,11 +94,11 @@ Writing the same code as Mr. Traversy's code is not enough!  You will be expecte
 
 You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, and the completeness of your repository. Your repository must contain:
 
-* A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-* One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
-* A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
+- A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
+- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
 
 There are two general paths you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
 
-* __Two-Stepping__: First - follow the tutorial studying the code and understanding the project.  Second - go through the tutorial another time, this time around focusing on using branches to create a finished repository.
-* __One-Stepping__: Follow the tutorial once more slowly, carefully building your finished repository as you go.
+- __Two-Stepping__: First - follow the tutorial studying the code and understanding the project.  Second - go through the tutorial another time, this time around focusing on using branches to create a finished repository.
+- __One-Stepping__: Follow the tutorial once more slowly, carefully building your finished repository as you go.
