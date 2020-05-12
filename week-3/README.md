@@ -75,7 +75,7 @@ Step-by-step pull-requesting:
 
 This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible. Unlike the last two weeks, this project does not have a video tutorial for you to follow.  You're on your own!
 
-You will be expected to turn in your code for this project in new repo generated from [this template](https://github.com/HackYourFutureBelgium/duck-duck-clone/). It's up to you to write the development strategy!
+You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `duck-duck-clone` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 
 This week you will also expected to have entirely _correct_ and _accessible_ HTML & CSS including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button! Your coaches will be using the validation buttons on your deployed page, FireFox's Accessibility inspector, and the accessibility audit build into Chrome Devtools to check for any mistakes.  Since these tools are also available to you, you will be able find and fix any errors on your own before submission. Any validation errors left when you submit your work will land your project in "NEEDS REVISION".
 

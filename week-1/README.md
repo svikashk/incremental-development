@@ -129,13 +129,13 @@ Build _another_ group intro repository?!  But this time you'll use branches and 
 
 This week's project is to study and reverse-engineer the __acme-web-design__ tutorial from Traversy Media.
 
-Writing the same code as Mr. Traversy's code is not enough! You will be expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/acme-web-design), cleanly organized with one branch per step.  It's up to you to write the development strategy!
+Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `acme-web-design` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 
 You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, and the completeness of your repository. Your repository must contain:
 
 - A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
-- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story _in detail_.
+- A file called `development-strategy.md` which describes how you broke the project into user stories, and describes how you implemented each user story in detail.
 
 There are two general paths you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
 

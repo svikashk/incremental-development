@@ -90,7 +90,7 @@ Incrementally develop a simple responsive web page.
 
 This week's project is to study the __app-theme__ tutorial from Traversy Media.
 
-Writing the same code as Mr. Traversy's code is not enough!  You will be expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/acme-web-design), cleanly organized with one branch per step.  It's up to you to write the development strategy!
+Writing the same code as Mr. Traversy's code is not enough!  You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `app-theme` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 
 You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, and the completeness of your repository. Your repository must contain:
 
