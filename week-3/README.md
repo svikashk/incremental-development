@@ -18,14 +18,15 @@
 
 ## Learning Objectives
 
-* Creating accessible web pages
 * Using Pull Requests for collaboration
 
 ---
 
 ## Prep Work
 
-... things to read/watch/try before coming in on sunday ...
+### Git & GitHub
+
+* [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
 
 ---
 
@@ -37,20 +38,20 @@ Collaborate to create an accessible web page.
 
 ### Isolate
 
-Step-by-step pull-requesting:
+Step-by-step collaboration practice:
 
 * [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two) (main exercise)
 * [Pull Request & Merge](https://github.com/HackYourFutureBelgium/git-github-practice/blob/master/pull-request-and-merge.md) (extra exercise)
 
 ### Integrate
 
-* [be-accessible](https://github.com/hackyourfuturebelgium/be-accessible) (starter repo)
+In groups of 3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](./development-strategy.md) and [this wireframe](./wireframe.png) into the new repo. The remaining team members will now fork the repository owner's repo.
+
+Now have at it!  Develop the project one user story at a time, taking turns being the driver
 
 ---
 
 ## Assignments
-
-> Before getting started on the homework, take a minute to set up your [Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues) on this module's project board.
 
 ### Suggested Study
 

@@ -40,15 +40,12 @@
 
 There is _a lot_ of prep work for this week, but it's doable!  Remember that the goal of prep work isn't to understand everything in depth.  It's just to be familiar so that you're not hearing about these topics for the first time on Sunday.
 
-### Pair Programming
-
-In class you will always be pair programming.  Take a read through [Pair Programming](https://study.hackyourfuture.be/collaborating/pair-programming) to get ready for your first coding Sunday!
-
 ### Git
 
 This module's main objective is to learn how Git & GitHub can be used to organize your development process.  Come prepared for Sunday's activities by studying these links:
 
 - [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - no need to go past 1.4
+- [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8) - #8 & #9
 - [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
 
 ### User Stories
@@ -80,16 +77,23 @@ Not very complicated but a little tricky at first.   This will come up _all the 
 
 > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-1)
 
-Learn how to use a `development-strategy.md` to plan your development, and git branches to organize your development
+Learn how to use a `development-strategy.md` to plan your projects, and git branches to organize your code.
 
 ### Isolate
 
-Build _another_ group intro repository?!  But this time you'll use branches and `development-strategy.md`
+Build _another_ group intro repository?!  Your main focus this time will be understanding development strategies, and using git branches to turn the strategy into a reality:
+
+- [this exercise's development strategy](./development-strategy-team-page.md)
 
 ### Integrate
 
-- All About Trees: [stepped](../integrate/all-about-trees-stepped), [separated](https://github.com/hackyourfuturebelgium/built-with-branches)
-- [be-semantic](https://github.com/hackyourfuturebelgium/be-semantic) (project starter repo)
+Connect what you've learned about development strategies, Git & GitHub with what you already know about HTML/CSS:
+
+- [development strategy](./development-strategy-semantic-layout.md)
+- [wireframe](./wireframe.gif)
+- [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
+
+Example to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
 
 ---
 
@@ -102,6 +106,7 @@ Build _another_ group intro repository?!  But this time you'll use branches and 
 #### Git & GitHub
 
 - [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 - [git-it](https://github.com/jlord/git-it-electron/)
 - [learngitbranching](https://learngitbranching.js.org)
 
