@@ -15,11 +15,13 @@
   * [Project](#project)
 
 ---
+---
 
 ## Learning Objectives
 
 * Using Pull Requests for collaboration
 
+---
 ---
 
 ## Prep Work
@@ -28,6 +30,7 @@
 
 * [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
 
+---
 ---
 
 ## Lesson Plan
@@ -50,6 +53,7 @@ In groups of 3, choose one team member to be the main repository owner.  They wi
 Now have at it!  Develop the project one user story at a time, taking turns being the driver
 
 ---
+---
 
 ## Assignments
 
@@ -60,6 +64,8 @@ Now have at it!  Develop the project one user story at a time, taking turns bein
 - [Video tutorial series](https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7)
 - [A good playlist](https://www.youtube.com/watch?v=g9Qff0b-lHk&list=PL_gUZt7pGoe2OI___PQDlQUJ8CbUxHWmO)
 
+---
+
 ### Exercises
 
 - :egg: [html-css-git-exercises](https://github.com/CodeYourFuture/html-css-git-exercises) - Week 3
@@ -67,6 +73,8 @@ Now have at it!  Develop the project one user story at a time, taking turns bein
   - Push your work regularly to GitHub
 - :egg: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - :hatching_chick: [css-exercises](https://github.com/dangodev/css-exercises)
+
+---
 
 ### Project
 

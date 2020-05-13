@@ -15,6 +15,7 @@
   - [Project](#project)
 
 ---
+---
 
 ## Learning Objectives
 
@@ -34,6 +35,7 @@
 - Determining which CSS units to use when
 - Understanding CSS specificity rules
 
+---
 ---
 
 ## Prep Work
@@ -72,6 +74,7 @@ Not very complicated but a little tricky at first.   This will come up _all the 
 - [w3schools 2](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ---
+---
 
 ## Lesson Plan
 
@@ -96,6 +99,7 @@ Connect what you've learned about development strategies, Git & GitHub with what
 Example to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
 
 ---
+---
 
 ## Assignments
 
@@ -116,6 +120,8 @@ Example to study: [separated](https://github.com/hackyourfuturebelgium/built-wit
 - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
+---
+
 ### Exercises
 
 - :egg: [html-css-git-exercises](https://github.com/CodeYourFuture/html-css-git-exercises) - Week 1
@@ -125,6 +131,8 @@ Example to study: [separated](https://github.com/hackyourfuturebelgium/built-wit
   - You should ignore the instructions under _When you have completed all exercises_
 - :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - :hatched_chick: [css-exercises](https://github.com/dangodev/css-exercises)
+
+---
 
 ### Project
 

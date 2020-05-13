@@ -15,12 +15,14 @@
   - [Project](#project)
 
 ---
+---
 
 ## Learning Objectives
 
 - Creating responsive designs
 - Using the CLI to work with files
 
+---
 ---
 
 ## Prep Work
@@ -38,6 +40,7 @@
 
 - [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
 
+---
 ---
 
 ## Lesson Plan
@@ -58,6 +61,7 @@ Incrementally develop a simple responsive web page.
   - And try to do as much as you can from CLI
 
 ---
+---
 
 ## Assignments
 
@@ -74,6 +78,8 @@ Incrementally develop a simple responsive web page.
 - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
+---
+
 ### Exercises
 
 - :egg: [html-css-git-exercises](https://github.com/CodeYourFuture/html-css-git-exercises) - Week 2
@@ -81,6 +87,8 @@ Incrementally develop a simple responsive web page.
   - Push your work regularly to GitHub
 - :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - :hatching_chick: [css-exercises](https://github.com/dangodev/css-exercises)
+
+---
 
 ### Project
 
