@@ -50,9 +50,12 @@ This module's main objective is to learn how Git & GitHub can be used to organiz
 - [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8) - #8 & #9
 - [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
 
-### User Stories
+### Agile Development
 
-- [`development-strategy.md` files](https://home.hackyourfuture.be/students/development-strategy)
+- Development Strategy (required)
+      - [`development-strategy.md` files](https://home.hackyourfuture.be/students/development-strategy)
+      - example: [Team Branchies](https://github.com/HackYourFutureBelgium/team-branchies)
+- [What is this?](https://www.youtube.com/watch?v=GzzkpAOxHXs)
 - [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
 - [The "what" not the "how"](https://duckduckgo.com/?q=what+are+user+stories&t=brave&iax=videos&ia=videos&iai=Pn-QMvDTuEY)
@@ -85,9 +88,12 @@ Learn how to use a [`development-strategy.md` file](https://home.hackyourfuture.
 
 ### Isolate
 
-Build _another_ group intro repository?!  Your main focus this time will be understanding development strategies, and using git branches to turn the strategy into a reality:
+Build _another_ group intro repository?!  Your main focus this time will be understanding development strategies, and using git branches to turn the strategy into a reality.
 
-- [this exercise's development strategy](./development-strategy-team-repo.md)
+While in your small groups each group member will create _their own_ repository.  You can help each other all you need to, but you will each need to work on a separate project. There is no need to fork or send pull requests (that's for next week).
+
+- a completed example to study: [Team Branchies](https://github.com/HackYourFutureBelgium/team-branchies)
+- to get you started: [a template development strategy](./development-strategy-team-repo.md)
 
 ### Integrate
 
@@ -97,7 +103,7 @@ Connect what you've learned about development strategies, Git & GitHub with what
 - [wireframe](./wireframe.gif)
 - [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
 
-Example to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
+Example project to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
 
 ---
 ---

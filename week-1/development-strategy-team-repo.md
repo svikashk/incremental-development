@@ -19,6 +19,7 @@ __A User can see my initial repository and live demo__
 1. Copy-paste this development strategy file into a file called `development-strategy.md`
 1. Add a license
 1. Give a title to your README
+1. Fill out the rest of this file with your team's names
 1. Push the changes
 1. turn on GitHub Pages
 
@@ -74,10 +75,10 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-... complete this process once for each team member ...
+... fill out one section for each team member ...
 
 ---
 
-## 5. Finishing Touches
+## X. Finishing Touches
 
 __As a perfectionist, I want everything perfect :)__
