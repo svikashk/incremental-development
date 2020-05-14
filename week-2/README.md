@@ -43,20 +43,21 @@
 Incrementally develop a simple responsive web page.
 
 ### Isolate
+
 Step-by-step collaboration practice:
 
-* [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two) (main exercise)
-* [Pull Request & Merge](https://github.com/HackYourFutureBelgium/git-github-practice/blob/master/pull-request-and-merge.md) (extra exercise)
+- [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two) (main exercise)
+- [Pull Request & Merge](https://github.com/HackYourFutureBelgium/git-github-practice/blob/master/pull-request-and-merge.md) (extra exercise)
 
 ### Integrate
 
 Revisit the project you built last week, but with collaboration!
 
-In groups of ~3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](../integrate/semantic-layout-development-strategy.md) and [this wireframe](../integrate/semantic-layout-wireframe.gif)) into the new repo. The remaining team members will now fork the repository owner's repo.
+In groups of ~3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](./development-strategy.md) and [this wireframe](./wireframe.gif)) into the new repo.
 
-Next, divide the different user stories between team members.  Each member will work on their own to develop their user story on their fork and send a pull request to the main repo when they have finished.
+Next, divide the different user stories between team members and fill in their names on the copied `development-strategy` file.  Team members will now fork the main group repository.  Each member will now work independently on their own fork to develop their user story, sending a pull request to the main repo when they have finished.
 
-After everyone has sent their pull requests, get back together and review each pull request together.  Did you have many conflicts?  What worked well?  What was challenging?
+After everyone has sent their pull requests, get back together and review each pull request together.  Did you have many conflicts? Were you able to resolve the conflicts into a working web page?
 
 ---
 ---

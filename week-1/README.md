@@ -52,6 +52,7 @@ This module's main objective is to learn how Git & GitHub can be used to organiz
 
 ### User Stories
 
+- [`development-strategy.md` files](https://home.hackyourfuture.be/students/development-strategy)
 - [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
 - [The "what" not the "how"](https://duckduckgo.com/?q=what+are+user+stories&t=brave&iax=videos&ia=videos&iai=Pn-QMvDTuEY)
@@ -80,20 +81,20 @@ Not very complicated but a little tricky at first.   This will come up _all the 
 
 > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-1)
 
-Learn how to use a `development-strategy.md` to plan your projects, and git branches to organize your code.
+Learn how to use a [`development-strategy.md` file](https://home.hackyourfuture.be/students/development-strategy) to plan your projects, and git branches to organize your code.
 
 ### Isolate
 
 Build _another_ group intro repository?!  Your main focus this time will be understanding development strategies, and using git branches to turn the strategy into a reality:
 
-- [this exercise's development strategy](./development-strategy-team-page.md)
+- [this exercise's development strategy](./development-strategy-team-repo.md)
 
 ### Integrate
 
 Connect what you've learned about development strategies, Git & GitHub with what you already know about HTML/CSS:
 
-- [development strategy](../integrate/semantic-layout-development-strategy.md)
-- [wireframe](../integrate/semantic-layout-wireframe.gif)
+- [development strategy](./development-strategy-semantic-layout.md)
+- [wireframe](./wireframe.gif)
 - [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
 
 Example to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)

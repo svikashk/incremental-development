@@ -16,11 +16,11 @@ write a short description of your web page:
 
 __A User can see my initial repository and live demo__
 
-### Repo
+### Repos & Branches
 
 1. Created a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
 1. Clone the repository
-1. Copy-paste this development strategy file into your new repository
+1. Copy-paste the markdown from this file to the empty `development-strategy.md` file in the new repo
 1. Add [this wireframe](./wireframe.gif) into your new repo
 1. Start your README file
 1. Push the changes
@@ -32,9 +32,13 @@ __A User can see my initial repository and live demo__
 
 __As a site visitor, I want to know what the web page is called__
 
-### Repo
+> assigned to __
 
-This user story was developed on a brach called `1-title`
+### Repos & Branches
+
+1. This user story was developed on __'s fork, on a brach called `1-title`.
+1. It was merged to `master` on __'s fork when the feature was complete
+1. A pull request was sent to the main group repo
 
 ### HTML
 
@@ -52,28 +56,13 @@ This user story was developed on a brach called `1-title`
 
 __As a site visitor, I want to read an introduction to this web page__
 
-### Repo
+> assigned to __
 
-This user story was developed on a brach called `2-introduction`
+### Repos & Branches
 
-### HTML
-
-- section element between the header & footer
-- some nice text in the section introducing users to this web page
-
-### CSS
-
-Styling for the new elements
-
----
-
-## 2. User Story: introduction
-
-__As a site visitor, I want to read an introduction to this web page__
-
-### Repo
-
-This user story was developed on a brach called `2-introduction`
+1. This user story was developed on __'s fork, on a brach called `2-introduction`.
+1. It was merged to `master` on __'s fork when the feature was complete
+1. A pull request was sent to the main group repo
 
 ### HTML
 
@@ -90,9 +79,13 @@ Styling for the new element
 
 __As a site visitor, I want to learn about something cool__
 
-### Repo
+> assigned to __
 
-This user story was developed on a brach called `3-main-text`
+### Repos & Branches
+
+1. This user story was developed on __'s fork, on a brach called `3-main-text`.
+1. It was merged to `master` on __'s fork when the feature was complete
+1. A pull request was sent to the main group repo
 
 ### HTML
 
@@ -109,9 +102,13 @@ Styling for the new element
 
 __As a site visitor, I want to know where I can learn more__
 
-### Repo
+> assigned to __
 
-This user story was developed on a brach called `4-references`
+### Repos & Branches
+
+1. This user story was developed on __'s fork, on a brach called `4-references`.
+1. It was merged to `master` on __'s fork when the feature was complete
+1. A pull request was sent to the main group repo
 
 ### HTML
 
@@ -124,7 +121,9 @@ Styling for the new element
 
 ---
 
-## Finishing Touches
+## 5. Finishing Touches
+
+__As a perfectionist, I want everything perfect :)__
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)

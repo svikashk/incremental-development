@@ -78,5 +78,6 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## Finishing Touches
+## 5. Finishing Touches
 
+__As a perfectionist, I want everything perfect :)__

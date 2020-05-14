@@ -4,15 +4,15 @@
 
 ## Week 3
 
-* [Learning Objectives](#learning-objectives)
-* [Prep Work](#prep-work)
-* [Lesson Plan](#lesson-plan)
-  * [Isolate](#isolate)
-  * [Integrate](#integrate)
-* [Assignments](#assignments)
-  * [Suggested Study](#suggested-study)
-  * [Exercises](#exercises)
-  * [Project](#project)
+- [Learning Objectives](#learning-objectives)
+- [Prep Work](#prep-work)
+- [Lesson Plan](#lesson-plan)
+  - [Isolate](#isolate)
+  - [Integrate](#integrate)
+- [Assignments](#assignments)
+  - [Suggested Study](#suggested-study)
+  - [Exercises](#exercises)
+  - [Project](#project)
 
 ---
 ---
@@ -88,7 +88,7 @@ This week you will also expected to have entirely _correct_ and _accessible_ HTM
 
 Your repository must contain:
 
-* A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-* One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
-* A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
-* Include your _wireframe_ in the `development-strategy.md` along with a little explanation of why you made it like you did.  You can either include a link if you use [wireframe.cc](https://wireframe.cc), or upload an image if you use another tool.
+- A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
+- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
+- Include your _wireframe_ in the `development-strategy.md` along with a little explanation of why you made it like you did.  You can either include a link if you use [wireframe.cc](https://wireframe.cc), or upload an image if you use another tool.
