@@ -19,16 +19,21 @@
 
 ## Learning Objectives
 
-* Using Pull Requests for collaboration
+- Using the CLI to work with files
 
 ---
 ---
 
 ## Prep Work
 
-### Git & GitHub
+### CLI
 
-* [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
+- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- CLI games:
+  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
+  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
+  - [iTerm](https://sr6033.github.io/lterm/) - online
+- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
 ---
 ---
@@ -41,16 +46,9 @@ Collaborate to create an accessible web page.
 
 ### Isolate
 
-Step-by-step collaboration practice:
-
-* [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two) (main exercise)
-* [Pull Request & Merge](https://github.com/HackYourFutureBelgium/git-github-practice/blob/master/pull-request-and-merge.md) (extra exercise)
+- Practice using your computer's CLI by [replicating this folder structure](https://github.com/HackYourFutureBelgium/replicate-this-from-command-line) using only terminal commands.
 
 ### Integrate
-
-In groups of 3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](./development-strategy.md) and [this wireframe](./wireframe.png) into the new repo. The remaining team members will now fork the repository owner's repo.
-
-Now have at it!  Develop the project one user story at a time, taking turns being the driver
 
 ---
 ---

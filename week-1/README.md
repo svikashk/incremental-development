@@ -92,8 +92,8 @@ Build _another_ group intro repository?!  Your main focus this time will be unde
 
 Connect what you've learned about development strategies, Git & GitHub with what you already know about HTML/CSS:
 
-- [development strategy](./development-strategy-semantic-layout.md)
-- [wireframe](./wireframe.gif)
+- [development strategy](../integrate/semantic-layout-development-strategy.md)
+- [wireframe](../integrate/semantic-layout-wireframe.gif)
 - [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
 
 Example to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)

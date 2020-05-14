@@ -20,25 +20,18 @@
 ## Learning Objectives
 
 - Creating responsive designs
-- Using the CLI to work with files
+- Using Pull Requests for collaboration
 
 ---
 ---
 
 ## Prep Work
 
-### CLI
+### Git & GitHub
 
-- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
-- CLI games:
-  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
-  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
-  - [iTerm](https://sr6033.github.io/lterm/) - online
-- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
-
-### HTML & CSS
-
-- [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
+- [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
+- [Git & GitHub for Poets](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s)
+- The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11), [12](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)
 
 ---
 ---
@@ -50,15 +43,20 @@
 Incrementally develop a simple responsive web page.
 
 ### Isolate
+Step-by-step collaboration practice:
 
-- Practice using your computer's CLI by [replicating this folder structure](https://github.com/HackYourFutureBelgium/replicate-this-from-command-line) using only terminal commands.
+* [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two) (main exercise)
+* [Pull Request & Merge](https://github.com/HackYourFutureBelgium/git-github-practice/blob/master/pull-request-and-merge.md) (extra exercise)
 
 ### Integrate
 
-- [be-responsive](https://github.com/hackyourfuturebelgium/be-responsive) (starter repo)
-  - Create a basic HTML/CSS website that matches this layout
-  - Use branches!
-  - And try to do as much as you can from CLI
+Revisit the project you built last week, but with collaboration!
+
+In groups of ~3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](../integrate/semantic-layout-development-strategy.md) and [this wireframe](../integrate/semantic-layout-wireframe.gif)) into the new repo. The remaining team members will now fork the repository owner's repo.
+
+Next, divide the different user stories between team members.  Each member will work on their own to develop their user story on their fork and send a pull request to the main repo when they have finished.
+
+After everyone has sent their pull requests, get back together and review each pull request together.  Did you have many conflicts?  What worked well?  What was challenging?
 
 ---
 ---
@@ -74,6 +72,7 @@ Incrementally develop a simple responsive web page.
 
 #### HTML & CSS
 
+- [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
 - [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
 - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
