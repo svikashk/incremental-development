@@ -157,7 +157,7 @@ You will be assessed not only on your live demo, but also on the quality of your
 - One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
 - A file called `development-strategy.md` which describes how you broke the project into user stories, and describes how you implemented each user story in detail.
 
-There are two general paths you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
+There are two general strategies you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
 
 - __Two-Stepping__: First - follow the tutorial studying the code and understanding the project.  Second - go through the tutorial another time, this time around focusing on using branches to create a finished repository.
 - __One-Stepping__: Follow the tutorial once more slowly, carefully building your finished repository as you go.
