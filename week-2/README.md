@@ -85,6 +85,8 @@ After everyone has sent their pull requests, get back together and review each p
 - :egg: [html-css-git-exercises](https://github.com/CodeYourFuture/html-css-git-exercises) - Week 2
   - Complete the exercises in `week-2`
   - Push your work regularly to GitHub
+  - _DO NOT_ send a pull request!  This is how they do homework submission in London, we don't want to clutter up their repository with our assignments
+  - To submit your homework simply include a link to your fork in your weekly homework issue
 - :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - :hatching_chick: [css-exercises](https://github.com/dangodev/css-exercises)
 

@@ -135,7 +135,8 @@ Example project to study: [separated](https://github.com/hackyourfuturebelgium/b
   - Fork & clone the repository
   - Complete the exercises in `week-1`
   - Push your work regularly to GitHub
-  - You should ignore the instructions under _When you have completed all exercises_
+  - _DO NOT_ send a pull request!  This is how they do homework submission in London, we don't want to clutter up their repository with our assignments
+  - To submit your homework simply include a link to your fork in your weekly homework issue
 - :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - :hatched_chick: [css-exercises](https://github.com/dangodev/css-exercises)
 
