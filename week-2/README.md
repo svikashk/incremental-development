@@ -80,7 +80,7 @@ Revisit the project you built last week, but with collaboration!
 
 #### HTML & CSS
 
-- [study.hackyourfuture.be/html-css/html#responsive-design](https://study.hackyourfuture.be/html-css/html#responsive-design)
+- [study.hackyourfuture.be/html-css/responsive-design](https://study.hackyourfuture.be/html-css/responsive-design)
 - [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
 - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
