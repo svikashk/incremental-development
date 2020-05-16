@@ -19,45 +19,52 @@
 
 ## Learning Objectives
 
-- Creating responsive designs
-- Using Pull Requests for collaboration
+- Collaborating on one repository
+- Using GitHub pull requests
+- Assigning collaborators for code review
 
 ---
 ---
 
 ## Prep Work
 
-### Git & GitHub
+> First things first:
+> - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
+> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
+
+### Collaborating on GitHub
 
 - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
-- [Git & GitHub for Poets](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s)
+- Git & GitHub for Poets: [pull request & merge](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s), [resolving conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 - The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11), [12](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)
+- Pull Request Reviews: [about them](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews), [requesting one](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
 
 ---
 ---
 
 ## Lesson Plan
 
-> [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-2)
+<!-- > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-2) -->
 
 Incrementally develop a simple responsive web page.
 
 ### Isolate
 
-Step-by-step collaboration practice:
+Step-by-step collaboration practice for two people on one repository.  Split into pairs within your group and follow these steps:
 
-- [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two) (main exercise)
-- [Pull Request & Merge](https://github.com/HackYourFutureBelgium/git-github-practice/blob/master/pull-request-and-merge.md) (extra exercise)
+- [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
 ### Integrate
 
 Revisit the project you built last week, but with collaboration!
 
-In groups of ~3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](./development-strategy.md) and [this wireframe](./wireframe.gif)) into the new repo.
-
-Next, divide the different user stories between team members and fill in their names on the copied `development-strategy` file.  Team members will now fork the main group repository.  Each member will now work independently on their own fork to develop their user story, sending a pull request to the main repo when they have finished.
-
-After everyone has sent their pull requests, get back together and review each pull request together.  Did you have many conflicts? Were you able to resolve the conflicts into a working web page?
+1. In groups of 2-3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](../integrate/development-strategy-collaborative.md) and [this wireframe](../integrate/wireframe.gif)) into the new repo.
+1. Divide the different development steps between team members and fill in their names on the copied `development-strategy` file.  Using the same workflow as before break, build a website to match the wireframe in your shared repository.
+1. Return to your small group and discuss.
+    - What went well? What was challenging?
+    - What conflicts did you have? How did you resolve them?
+    - Was it clear _exactly_ what code you needed to write?
+    - Was it clear _exactly_ what code your team mates needed to write?
 
 ---
 ---
@@ -73,9 +80,9 @@ After everyone has sent their pull requests, get back together and review each p
 
 #### HTML & CSS
 
-- [What is Responsive Design?](https://www.youtube.com/watch?v=5KGah8bW8GE)
+- [study.hackyourfuture.be/html-css/html#responsive-design](https://study.hackyourfuture.be/html-css/html#responsive-design)
 - [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
-- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
+- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
 ---
@@ -104,7 +111,7 @@ You will be assessed not only on your live demo, but also on the quality of your
 
 - A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
-- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
+- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.
 
 There are two general paths you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
 

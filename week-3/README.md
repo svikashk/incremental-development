@@ -26,6 +26,10 @@
 
 ## Prep Work
 
+> First things first:
+> - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
+> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
+
 ### CLI
 
 - [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
@@ -35,20 +39,77 @@
   - [iTerm](https://sr6033.github.io/lterm/) - online
 - [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
+### CLI Text Editors
+
+- [nano vs. vim vs. emacs](https://www.linuxtrainingacademy.com/nano-emacs-vim/)
+  - we will use nano in class because it's the simplest to use
+  - if you want to keep using a CLI editor, you should learn _vim_ or _emacs_
+- [nano home page](https://www.nano-editor.org/)
+- nano intro videos: [Gary Newell](https://www.youtube.com/watch?v=cLyUZAabf40), [HackerSploit](https://www.youtube.com/watch?v=gyKiDczLIZ4)
+- nano on windows: [download](http://support.moonpoint.com/software/editors/nano/win.php), [video](https://www.youtube.com/watch?v=_DUudRnzkrw)
+
+### Pair Programming
+
+- [study.hackyourfuture.be](https://study.hackyourfuture.be/collaborating/pair-programming)
+
+### GitHub Code Review
+
+- [about them](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
+- [requesting one](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+
 ---
 ---
 
 ## Lesson Plan
 
-> [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3)
+<!-- > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3) -->
 
-Collaborate to create an accessible web page.
+Coordinate your collaboration with Issues, Project Boards & Pull Requests.
 
 ### Isolate
 
-- Practice using your computer's CLI by [replicating this folder structure](https://github.com/HackYourFutureBelgium/replicate-this-from-command-line) using only terminal commands.
+Build _another_ group intro repository (this is the last time, promise :). Close VSCode, you're going __full CLI__:
+
+- _git_ for branching, pushing and pulling
+- _nano_ for writing & editing the Markdown
+
+This time you will be doing pair programming, taking turns to develop the next branch on your local machines and pushing when you have finished.  Split your small group into pairs and begin:
+
+1. Choose one of you to be the repository owner:
+    - Create a new repository
+    - Write a development strategy
+    - Assign the steps
+    - Add your partner as a contributor
+1. Write this group repo, one step at a time! For each step change who is driver and who is navigator. If you are the driver:
+    - Pull the most recent changes to your computer
+    - Follow your navigator's instructions to write the next step using _nano_
+    - When you are finished, push your changes and move on to the next step
+1. When each pair has finished, return to your small groups and discuss:
+    - What went well? What was challenging?
+    - What conflicts did you have? How did you resolve them?
+    - What was challenging about using only CLI? What was nice about it?
 
 ### Integrate
+
+You will be building one last website matching the _semantic layout_ wireframe.  This time your entire small group will practice collaborating on one repository:
+
+1. Choose one person to be repository owner, they will manage the team repo but will not write any code:
+    - generate a new repository using the [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+    - paste in [this development strategy](../integrate/development-strategy-collaborative.md) & fill it out
+    - create a new project board with four columns: "To Do", "In Progress", "Ready for Review", "Done"
+    - add your group members as collaborators in your repository
+1. Repository Owner will create one issue for each step of the development strategy:
+    - give each one a helpful title and description
+    - assign each issue to a team member
+1. Each team member develops their piece of the project following [the same workflow as last week](https://github.com/foundersandcoders/git-workflow-workshop-for-two) with one small change.  Instead of directly merging your pull request you will:
+    - [link your PR to your issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+    - [request a review from your team's repo owner](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+    - move your issue to "Ready for Review"
+    - wait for the rest of your group to be "Ready for Review"
+1. Once all the of the issues are in "Ready for Review", review and merge them as a team before merging:
+    - are there any merge conflicts?
+    - does each pull request contain _only_ the required code. No more, no less?
+1. Finally, turn on GitHub pages and check the results!  Did your team manage to make a recognizable website?
 
 ---
 ---
@@ -57,10 +118,8 @@ Collaborate to create an accessible web page.
 
 ### Suggested Study
 
-#### Web Accessiblity
-
-- [Video tutorial series](https://www.youtube.com/watch?v=o4xHfi4t9S0&list=PLWjCJDeWfDdcEtSnqq_iGLKGA_H_3o3y7)
-- [A good playlist](https://www.youtube.com/watch?v=g9Qff0b-lHk&list=PL_gUZt7pGoe2OI___PQDlQUJ8CbUxHWmO)
+- [Code Review](https://study.hackyourfuture.be/collaborating/code-review)
+- [Web Accessibility](https://study.hackyourfuture.be/html-css/accessibility)
 
 ---
 
@@ -80,15 +139,15 @@ Collaborate to create an accessible web page.
 
 > [Open-Ended](http://hackyourfuture.be/homework-submission/#projects)
 
-This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible. Unlike the last two weeks, this project does not have a video tutorial for you to follow.  You're on your own!
+> Collaboration!  This project should be completed in groups of 2-3.
 
-You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `duck-duck-clone` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
+This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible. Unlike the last two weeks, this project does not have a video tutorial for you to follow. This week you will also expected to do your best at writing _accessible_ HTML including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button.
 
-This week you will also expected to have entirely _correct_ and _accessible_ HTML & CSS including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button! Your coaches will be using the validation buttons on your deployed page, FireFox's Accessibility inspector, and the accessibility audit build into Chrome Devtools to check for any mistakes.  Since these tools are also available to you, you will be able find and fix any errors on your own before submission. Any validation errors left when you submit your work will land your project in "NEEDS REVISION".
+You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [the w3-validation-starter repo](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `duck-duck-clone` and should be collaboratively developed following the same workflow you practiced in class this Sunday.  It's up to you to write the development strategy!
 
-Your repository must contain:
+We will be checking for:
 
 - A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
-- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.  Check out the [tomato timer code-along](https://github.com/HackYourFutureBelgium/tomato-timer-code-along/blob/master/development-strategy.md) for an example.
-- Include your _wireframe_ in the `development-strategy.md` along with a little explanation of why you made it like you did.  You can either include a link if you use [wireframe.cc](https://wireframe.cc), or upload an image if you use another tool.
+- A file called `development-strategy.md` including how you broke the project into steps, what code you wrote for each step, and who was responsible for each step.
+- A project board with one issue per step, each assigned to a team mate & linked to a pull request for review

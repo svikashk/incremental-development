@@ -40,6 +40,10 @@
 
 ## Prep Work
 
+> First things first:
+> - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
+> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
+
 There is _a lot_ of prep work for this week, but it's doable!  Remember that the goal of prep work isn't to understand everything in depth.  It's just to be familiar so that you're not hearing about these topics for the first time on Sunday.
 
 ### Git
@@ -73,9 +77,7 @@ Not very complicated but a little tricky at first.   This will come up _all the 
 
 ### HTML 5 Semantic Layout
 
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-- [w3schools 1](https://www.w3schools.com/html/html_layout.asp)
-- [w3schools 2](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [study.hackyourfuture.be](https://study.hackyourfuture.be/html-css/html#semantic-layout)
 
 ---
 ---
@@ -93,14 +95,14 @@ Build _another_ group intro repository?!  Your main focus this time will be unde
 While in your small groups each group member will create _their own_ repository.  You can help each other all you need to, but you will each need to work on a separate project. There is no need to fork or send pull requests (that's for next week).
 
 - a completed example to study: [Team Branchies](https://github.com/HackYourFutureBelgium/team-branchies)
-- to get you started: [a template development strategy](./development-strategy-team-repo.md)
+- to get you started: [a template development strategy](../integrate/development-strategy-team-repo.md)
 
 ### Integrate
 
 Connect what you've learned about development strategies, Git & GitHub with what you already know about HTML/CSS:
 
-- [development strategy](./development-strategy-semantic-layout.md)
-- [wireframe](./wireframe.gif)
+- [development strategy](../integrate/development-strategy-semantic-layout.md)
+- [wireframe](../integrate/wireframe.gif)
 - [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
 
 Example project to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
@@ -109,8 +111,6 @@ Example project to study: [separated](https://github.com/hackyourfuturebelgium/b
 ---
 
 ## Assignments
-
-> Before getting started on the homework, take a minute to set up your [Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues) on this module's project board.
 
 ### Suggested Study
 
@@ -123,8 +123,10 @@ Example project to study: [separated](https://github.com/hackyourfuturebelgium/b
 
 #### HTML & CSS
 
+- [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
+- [Modify the DOM. (does the source change?)](https://zapier.com/blog/inspect-element-tutorial/)
 - [inspecting-the-dom](https://hackyourfuture.be/inspecting-the-dom)
-- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn/responsive-web-design), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
+- FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
 
 ---
