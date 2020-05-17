@@ -19,7 +19,8 @@
 
 ## Learning Objectives
 
-- Using the CLI to work with files
+- Using the CLI to create, read, and write to files
+- Using GitHub Issues, Project Boards, and Pull Requests to manage your projects
 
 ---
 ---
@@ -64,7 +65,7 @@
 
 <!-- > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3) -->
 
-Coordinate your collaboration with Issues, Project Boards & Pull Requests.
+Coordinate your collaboration with Issues, Project Boards & Pull Requests.  If you've submitted a homework assignment in the last few weeks this workflow should feel familiar :)
 
 ### Isolate
 
@@ -77,13 +78,19 @@ This time you will be doing pair programming, taking turns to develop the next b
 
 1. Choose one of you to be the repository owner:
     - Create a new repository
+    - Create a new project board with four columns: "To Do", "In Progress", "Ready for Review", "Done"
+    - Add your partner as a collaborator in your repository
     - Write a development strategy
-    - Assign the steps
-    - Add your partner as a contributor
-1. Write this group repo, one step at a time! For each step change who is driver and who is navigator. If you are the driver:
+    - Create one issue per step and assign one of you to each issue
+1. Develop the steps in your strategy file. For each step change who is driver and who is navigator. If you are the driver:
+    - Move the correct issue into "In Progress"
     - Pull the most recent changes to your computer
     - Follow your navigator's instructions to write the next step using _nano_
-    - When you are finished, push your changes and move on to the next step
+    - When you are finished, commit and push your branch
+    - On GitHub, open a pull request to `master` from your new branch
+    - Move your issue into "Ready for Review" & [link your PR to your issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+    - Review the code as a pair then merge the changes to `master`
+    - Move on to the next step!
 1. When each pair has finished, return to your small groups and discuss:
     - What went well? What was challenging?
     - What conflicts did you have? How did you resolve them?
