@@ -103,7 +103,7 @@ Revisit the project you built last week, but with collaboration!
 
 > [Code-Along](http://hackyourfuture.be/homework-submission/#projects)
 
-This week's project is to study the __app-theme__ tutorial from Traversy Media.
+This week's project is to study the [__app-theme__ tutorial from Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc).
 
 Writing the same code as Mr. Traversy's code is not enough!  You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `app-theme` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 

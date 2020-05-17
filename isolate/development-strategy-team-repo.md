@@ -31,7 +31,7 @@ __As a site visitor, I want to know about your team and who is in it__
 
 ### Repo
 
-This user story was developed on a brach called `1-about-team`
+This user story was developed on a brach called `about-team`
 
 ### README.md
 
@@ -45,7 +45,7 @@ __As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `2-name`
+This user story was developed on a brach called `name`
 
 ### name.md
 
@@ -63,7 +63,7 @@ __As a site visitor, I want to learn more about *name*__
 
 ### Repo
 
-This user story was developed on a brach called `3-name`
+This user story was developed on a brach called `name`
 
 ### name.md
 

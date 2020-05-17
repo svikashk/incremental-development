@@ -95,7 +95,7 @@ Build _another_ group intro repository?!  Your main focus this time will be unde
 While in your small groups each group member will create _their own_ repository.  You can help each other all you need to, but you will each need to work on a separate project. There is no need to fork or send pull requests (that's for next week).
 
 - a completed example to study: [Team Branchies](https://github.com/HackYourFutureBelgium/team-branchies)
-- to get you started: [a template development strategy](../integrate/development-strategy-team-repo.md)
+- to get you started: [a template development strategy](../isolate/development-strategy-team-repo.md)
 
 ### Integrate
 
@@ -148,7 +148,7 @@ Example project to study: [separated](https://github.com/hackyourfuturebelgium/b
 
 > [Code-Along](https://home.hackyourfuture.be/students/weekly-assignments#projects)
 
-This week's project is to study and reverse-engineer the __acme-web-design__ tutorial from Traversy Media.
+This week's project is to study and reverse-engineer the [__acme-web-design__ tutorial from Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw).
 
 Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `acme-web-design` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 
