@@ -2,11 +2,7 @@
 
 > `semantic-layout`
 
-write a short description of your web page:
-
-- what is it about?
-- who would want to read it?
-- why would they want to read it?
+A basic web page with semantic layout, developed collaboratively using branches.  It's not very interesting to look at.
 
 ## Wireframe
 
@@ -16,7 +12,7 @@ write a short description of your web page:
 
 __A User can see my initial repository and live demo__
 
-### Repos & Branches
+### Repository
 
 1. Created a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
 1. Clone the repository
@@ -28,17 +24,18 @@ __A User can see my initial repository and live demo__
 
 ---
 
-## 1. User Story: title
+## 1. title
 
 __As a site visitor, I want to know what the web page is called__
 
 > assigned to __
 
-### Repos & Branches
+### Repository
 
-1. This user story was developed on __'s fork, on a brach called `title`.
-1. It was merged to `master` on __'s fork when the feature was complete
-1. A pull request was sent to the main group repo
+1. This user story was developed locally by __ on a brach called `title`.
+1. The new branch was pushed to the shared repository
+1. A pull request was made to `master` & reviewed by the team
+1. Changes were merged to `master`
 
 ### HTML
 
@@ -52,17 +49,18 @@ __As a site visitor, I want to know what the web page is called__
 
 ---
 
-## 2. User Story: introduction
+## 2.  introduction
 
 __As a site visitor, I want to read an introduction to this web page__
 
 > assigned to __
 
-### Repos & Branches
+### Repository
 
-1. This user story was developed on __'s fork, on a brach called `introduction`.
-1. It was merged to `master` on __'s fork when the feature was complete
-1. A pull request was sent to the main group repo
+1. This user story was developed locally by __ on a brach called `introduction`.
+1. The new branch was pushed to the shared repository
+1. A pull request was made to `master` & reviewed by the team
+1. Changes were merged to `master`
 
 ### HTML
 
@@ -75,17 +73,18 @@ Styling for the new element
 
 ---
 
-## 3. User Story: main text
+## 3. main text
 
 __As a site visitor, I want to learn about something cool__
 
 > assigned to __
 
-### Repos & Branches
+### Repository
 
-1. This user story was developed on __'s fork, on a brach called `main-text`.
-1. It was merged to `master` on __'s fork when the feature was complete
-1. A pull request was sent to the main group repo
+1. This user story was developed locally by __ on a brach called `main-text`.
+1. The new branch was pushed to the shared repository
+1. A pull request was made to `master` & reviewed by the team
+1. Changes were merged to `master`
 
 ### HTML
 
@@ -98,17 +97,18 @@ Styling for the new element
 
 ---
 
-## 4. User Story: references
+## 4. references
 
 __As a site visitor, I want to know where I can learn more__
 
 > assigned to __
 
-### Repos & Branches
+### Repository
 
-1. This user story was developed on __'s fork, on a brach called `references`.
-1. It was merged to `master` on __'s fork when the feature was complete
-1. A pull request was sent to the main group repo
+1. This user story was developed locally by __ on a brach called `references`.
+1. The new branch was pushed to the shared repository
+1. A pull request was made to `master` & reviewed by the team
+1. Changes were merged to `master`
 
 ### HTML
 
@@ -129,4 +129,5 @@ __As a perfectionist, I want everything perfect :)__
   - [makeareadme.com](https://www.makeareadme.com/)
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+- Check for styling errors with a linter & prettify code
+- Validate source code on w3 to check for any last mistakes

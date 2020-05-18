@@ -19,7 +19,6 @@
 
 ## Learning Objectives
 
-- Using the CLI to create, read, and write to files
 - Using GitHub Issues, Project Boards, and Pull Requests to manage your projects
 
 ---
@@ -30,28 +29,6 @@
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
 > - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
-
-### CLI
-
-- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
-- CLI games:
-  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
-  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
-  - [iTerm](https://sr6033.github.io/lterm/) - online
-- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
-
-### CLI Text Editors
-
-- [nano vs. vim vs. emacs](https://www.linuxtrainingacademy.com/nano-emacs-vim/)
-  - we will use nano in class because it's the simplest to use
-  - if you want to keep using a CLI editor, you should learn _vim_ or _emacs_
-- [nano home page](https://www.nano-editor.org/)
-- nano intro videos: [Gary Newell](https://www.youtube.com/watch?v=cLyUZAabf40), [HackerSploit](https://www.youtube.com/watch?v=gyKiDczLIZ4)
-- nano on windows: [download](http://support.moonpoint.com/software/editors/nano/win.php), [video](https://www.youtube.com/watch?v=_DUudRnzkrw)
-
-### Pair Programming
-
-- [study.hackyourfuture.be](https://study.hackyourfuture.be/collaborating/pair-programming)
 
 ### GitHub Code Review
 
@@ -69,23 +46,22 @@ Coordinate your collaboration with Issues, Project Boards & Pull Requests.  If y
 
 ### Isolate
 
-Build _another_ group intro repository (this is the last time, promise :). Close VSCode, you're going __full CLI__:
+Build _another_ group intro repository (this is the last time, promise :).
 
-- _git_ for branching, pushing and pulling
-- _nano_ for writing & editing the Markdown
+This time you will be doing pair programming, taking turns to develop the next branch on your local machines following the collaboration workflow you learned last week.  Split your small group into pairs and begin:
 
-This time you will be doing pair programming, taking turns to develop the next branch on your local machines and pushing when you have finished.  Split your small group into pairs and begin:
-
-1. Choose one of you to be the repository owner:
+1. Choose one of you to be the repository owner, they will:
     - Create a new repository
     - Create a new project board with four columns: "To Do", "In Progress", "Ready for Review", "Done"
     - Add your partner as a collaborator in your repository
-    - Write a development strategy
-    - Create one issue per step and assign one of you to each issue
-1. Develop the steps in your strategy file. For each step change who is driver and who is navigator. If you are the driver:
+1. Together as pair you should:
+    - Write a development strategy & assign each step
+    - Create one issue per step in the development strategy & assign the issue
+    - Move all new issues to the "To Do" column of the project board
+1. Develop the steps in your strategy file using [the same workflow as last week](https://github.com/foundersandcoders/git-workflow-workshop-for-two). For each step change who is driver and who is navigator. If you are the driver:
     - Move the correct issue into "In Progress"
     - Pull the most recent changes to your computer
-    - Follow your navigator's instructions to write the next step using _nano_
+    - Follow your navigator's instructions to write the next step
     - When you are finished, commit and push your branch
     - On GitHub, open a pull request to `master` from your new branch
     - Move your issue into "Ready for Review" & [link your PR to your issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
@@ -102,7 +78,8 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 1. Choose one person to be repository owner, they will manage the team repo but will not write any code:
     - generate a new repository using the [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
-    - paste in [this development strategy](../integrate/development-strategy-collaborative.md) & fill it out
+    - paste in [this development strategy](../integrate/development-strategy-collaborative.md) & fill out the details
+    - paste in [the semantic wireframe](../integrate/wireframe.gif)
     - create a new project board with four columns: "To Do", "In Progress", "Ready for Review", "Done"
     - add your group members as collaborators in your repository
 1. Repository Owner will create one issue for each step of the development strategy:
@@ -125,8 +102,24 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 ### Suggested Study
 
+### Collaboration
+
 - [Code Review](https://study.hackyourfuture.be/collaborating/code-review)
-- [Web Accessibility](https://study.hackyourfuture.be/html-css/accessibility)
+
+### Copying Website Designs
+
+### Web Accessibility
+
+- [study.hackyourfuture.be](https://study.hackyourfuture.be/html-css/accessibility)
+
+### CLI
+
+- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- CLI games:
+  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
+  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
+  - [iTerm](https://sr6033.github.io/lterm/) - online
+- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
 ---
 
@@ -158,3 +151,5 @@ We will be checking for:
 - One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
 - A file called `development-strategy.md` including how you broke the project into steps, what code you wrote for each step, and who was responsible for each step.
 - A project board with one issue per step, each assigned to a team mate & linked to a pull request for review
+
+> Please add one more check-box to your weekly homework issue for your project board.

@@ -19,9 +19,15 @@
 
 ## Learning Objectives
 
+### Git & GitHub
+
 - Collaborating on one repository
 - Using GitHub pull requests
 - Assigning collaborators for code review
+
+### HTML & CSS
+
+- Responsive design
 
 ---
 ---
@@ -34,10 +40,21 @@
 
 ### Collaborating on GitHub
 
+- [Basic collaborative workflow](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
 - Git & GitHub for Poets: [pull request & merge](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s), [resolving conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 - The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11), [12](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)
 - Pull Request Reviews: [about them](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews), [requesting one](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+
+### WireFrames
+
+* [What are these things?](https://www.youtube.com/results?search_query=what+are+wireframes)
+* [Why are these so great?](https://medium.com/@ray_vevaina/wireframing-a-front-end-developers-best-friend-c541df51ea65)
+* [wireframe.cc - online wireframes](https://wireframe.cc/)
+
+### Pair Programming
+
+- [study.hackyourfuture.be](https://study.hackyourfuture.be/collaborating/pair-programming)
 
 ---
 ---
@@ -56,10 +73,15 @@ Step-by-step collaboration practice for two people on one repository.  Split int
 
 ### Integrate
 
-Revisit the project you built last week, but with collaboration!
+Redo the wireframe you built last week, but with collaboration!
 
-1. In groups of 2-3, choose one team member to be the main repository owner.  They will generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter) & copy-paste [this development strategy](../integrate/development-strategy-collaborative.md) and [this wireframe](../integrate/wireframe.gif)) into the new repo.
-1. Divide the different development steps between team members and fill in their names on the copied `development-strategy` file.  Using the same workflow as before break, build a website to match the wireframe in your shared repository.
+![semantic wireframe](../integrate/wireframe.gif)
+
+1. In groups of 2-3, choose one team member to be the main repository owner.  They will set up the team repo:
+    - generate a new repo from the [w3-validation-starter](https://github.com/hackyourfuturebelgium/w3-validation-starter)
+    - copy-paste [this development strategy](../integrate/development-strategy-collaborative.md) and [this wireframe](../integrate/wireframe.gif)) into the new repo.
+    - Divide the development steps between team members:  write each team member's name in their step of the shared development-strategy file
+1. Using the same workflow as before break, build a website to match the wireframe in your shared repository. Each team member is responsible for one step (if your group has too many members, you may want to split into two smaller groups )
 1. Return to your small group and discuss.
     - What went well? What was challenging?
     - What conflicts did you have? How did you resolve them?
@@ -78,12 +100,21 @@ Revisit the project you built last week, but with collaboration!
 - [git & github for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [git-it](https://github.com/jlord/git-it-electron/)
 
-#### HTML & CSS
+#### Responsive Design
 
 - [study.hackyourfuture.be/html-css/responsive-design](https://study.hackyourfuture.be/html-css/responsive-design)
 - [CSS Games](https://study.hackyourfuture.be/html-css/css#games-to-learn-css)
 - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
 - [mmtuts: HTML & CSS](https://www.youtube.com/watch?v=TKYsuU86-DQ&list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU)
+
+### CLI
+
+- [Jesse Showalter](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+- CLI games:
+  - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl/) - clone & play
+  - [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - online
+  - [iTerm](https://sr6033.github.io/lterm/) - online
+- [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 
 ---
 
@@ -93,7 +124,7 @@ Revisit the project you built last week, but with collaboration!
   - Complete the exercises in `week-2`
   - Push your work regularly to GitHub
 - :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
-- :hatching_chick: [css-exercises](https://github.com/dangodev/css-exercises)
+- :hatched_chick: [css-exercises](https://github.com/dangodev/css-exercises)
 
 ---
 
