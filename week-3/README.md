@@ -58,7 +58,7 @@ This time you will be doing pair programming, taking turns to develop the next b
     - Write a development strategy & assign each step
     - Create one issue per step in the development strategy & assign the issue
     - Move all new issues to the "To Do" column of the project board
-1. Develop the steps in your strategy file using [the same workflow as last week](https://github.com/foundersandcoders/git-workflow-workshop-for-two). For each step change who is driver and who is navigator. If you are the driver:
+1. Develop the steps in your strategy file using [the same workflow as last week](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two). For each step change who is driver and who is navigator. If you are the driver:
     - Move the correct issue into "In Progress"
     - Pull the most recent changes to your computer
     - Follow your navigator's instructions to write the next step
@@ -85,7 +85,7 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 1. Repository Owner will create one issue for each step of the development strategy:
     - give each one a helpful title and description
     - assign each issue to a team member
-1. Each team member develops their piece of the project following [the same workflow as last week](https://github.com/foundersandcoders/git-workflow-workshop-for-two) with one small change.  Instead of directly merging your pull request you will:
+1. Each team member develops their piece of the project following [the same workflow as last week](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two) with one small change.  Instead of directly merging your pull request you will:
     - [link your PR to your issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
     - [request a review from your team's repo owner](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
     - move your issue to "Ready for Review"
@@ -106,7 +106,6 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 - [Code Review](https://study.hackyourfuture.be/collaborating/code-review)
 
-### Copying Website Designs
 
 ### Web Accessibility
 

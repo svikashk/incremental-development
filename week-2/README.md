@@ -40,7 +40,7 @@
 
 ### Collaborating on GitHub
 
-- [Basic collaborative workflow](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+- [Git Workflow for 2](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
 - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
 - Git & GitHub for Poets: [pull request & merge](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s), [resolving conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 - The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11), [12](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)
@@ -69,7 +69,7 @@ Incrementally develop a simple responsive web page.
 
 Step-by-step collaboration practice for two people on one repository.  Split into pairs within your group and follow these steps:
 
-- [Git Workflow for Two](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
+- [Git Workflow for Two](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
 
 ### Integrate
 
