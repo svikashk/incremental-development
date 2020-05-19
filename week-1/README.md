@@ -105,7 +105,7 @@ Connect what you've learned about development strategies, Git & GitHub with what
 - [wireframe](../integrate/wireframe.gif)
 - [starter repo](https://github.com/hackyourfuturebelgium/w3-validation-template) (project starter repo)
 
-Example project to study: [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
+All About Trees (example project): [separated](https://github.com/hackyourfuturebelgium/built-with-branches), [stepped](../integrate/all-about-trees-stepped)
 
 ---
 ---
