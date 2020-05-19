@@ -64,7 +64,7 @@ This time you will be doing pair programming, taking turns to develop the next b
     - Follow your navigator's instructions to write the next step
     - When you are finished, commit and push your branch
     - On GitHub, open a pull request to `master` from your new branch
-    - Move your issue into "Ready for Review" & [link your PR to your issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
+    - Move your issue into "Ready for Review" & link your PR to your issue ([reference 1]](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
     - Review the code as a pair then merge the changes to `master`
     - Move on to the next step!
 1. When each pair has finished, return to your small groups and discuss:
