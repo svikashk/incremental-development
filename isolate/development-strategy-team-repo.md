@@ -25,7 +25,7 @@ __A User can see my initial repository and live demo__
 
 ---
 
-## 1. User Story: about your team
+## 1. about your team
 
 __As a site visitor, I want to know about your team and who is in it__
 
@@ -39,7 +39,7 @@ Wrote an introduction to the team and added a list with all of our names.
 
 ---
 
-## 2. User Story: introducing _name_
+## 2. introducing _name_
 
 __As a site visitor, I want to learn more about *name*__
 
@@ -57,7 +57,7 @@ Change this team member's name on the list into a link to their new profile page
 
 ---
 
-## 3. User Story: introducing _name_
+## 3.  introducing _name_
 
 __As a site visitor, I want to learn more about *name*__
 

@@ -28,7 +28,7 @@ __A User can see my initial repository and live demo__
 
 ---
 
-## 1. User Story: title
+## 1. title
 
 __As a site visitor, I want to know what the web page is called__
 
@@ -49,7 +49,7 @@ __As a site visitor, I want to know what the web page is called__
 
 ---
 
-## 2. User Story: introduction
+## 2. introduction
 
 __As a site visitor, I want to read an introduction to this web page__
 
@@ -69,7 +69,7 @@ Styling for the new element
 
 ---
 
-## 3. User Story: main text
+## 3. main text
 
 __As a site visitor, I want to learn about something cool__
 
@@ -89,7 +89,7 @@ Styling for the new element
 
 ---
 
-## 4. User Story: references
+## 4. references
 
 __As a site visitor, I want to know where I can learn more__
 
