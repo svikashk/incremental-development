@@ -62,7 +62,7 @@ This module's main objective is to learn how Git & GitHub can be used to organiz
 - [What is this?](https://www.youtube.com/watch?v=GzzkpAOxHXs)
 - [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
-- [The "what" not the "how"](https://duckduckgo.com/?q=what+are+user+stories&t=brave&iax=videos&ia=videos&iai=Pn-QMvDTuEY)
+- [Three key parts](https://www.youtube.com/watch?v=ctFzjMygaRo)
 
 ### Relative vs. Absolute Paths
 
