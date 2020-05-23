@@ -138,11 +138,19 @@ This week's project is to study the [__app-theme__ tutorial from Traversy Media]
 
 Writing the same code as Mr. Traversy's code is not enough!  You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `app-theme` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 
-You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, and the completeness of your repository. Your repository must contain:
+This week you are also expected to build your project using the [Git Workflow for Two](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two) you studied in class.  (Minus the collaboration, this week's project is still individual).  For each step in your development strategy, you are expected to:
 
-- A README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- One well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
-- A file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.
+- develop the step on a new branch locally
+- push the new branch to github
+- merge the branch to github using a Pull Request in the repository
+
+You will be assessed not only on your live demo, but also on the quality of your code, the correctness of your branches, and the completeness of your repository. Your repository must:
+
+- Be generated from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template)
+- Contain a README describing your project in detail.  Check out these articles to learn more about writing good README's: [makeareadme.com](https://www.makeareadme.com/), [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project), [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Have one well-named branch per user story. If we check out any branch, it should contain _only_ the code necessary to make that step work. and it should work!
+- Have a file called `development-strategy.md` in which you explain how you broke the project into user stories, describe each user story, and describe what code you wrote to implement this user story.
+- Have one issue and merged pull request per step in your development strategy
 
 There are two general paths you can take to get this finished repo, neither is better or worse.  And if you find another way go for it!
 
