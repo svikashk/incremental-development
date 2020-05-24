@@ -36,7 +36,7 @@
 
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
-> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
+> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
 
 ### Collaborating on GitHub
 

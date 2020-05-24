@@ -42,7 +42,7 @@
 
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
-> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-submission#homework-issues)
+> - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
 
 There is _a lot_ of prep work for this week, but it's doable!  Remember that the goal of prep work isn't to understand everything in depth.  It's just to be familiar so that you're not hearing about these topics for the first time on Sunday.
 
