@@ -43,7 +43,7 @@
 - [Git Workflow for 2](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
 - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
 - Git & GitHub for Poets: [pull request & merge](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s), [resolving conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
-- The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11), [12](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=12)
+- The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11)
 - Pull Request Reviews: [about them](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews), [requesting one](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
 
 ### WireFrames
