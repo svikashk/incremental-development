@@ -23,4 +23,4 @@ Screen recordings of class.  Coaches, when sending your PR's with links please .
 
 * [Part 1](https://vimeo.com/422148962) - by Stéphane
 * [Part 2](https://vimeo.com/422149182) - by Evan
-* [Part 3](https://vimeo.com/422152928) - Homework explanation - by Stéphane, Evan
+* [Part 3](https://vimeo.com/422347127) - Homework explanation - by Stéphane, Evan
