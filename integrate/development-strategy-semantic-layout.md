@@ -14,7 +14,8 @@ write a short description of your web page:
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+__As a fellow developer I can see the prepared repository__
+__As a site visitor, I can see an empty site at the correct URL__
 
 ### Branch
 
