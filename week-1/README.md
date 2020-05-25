@@ -43,6 +43,7 @@
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
 > - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
+> - your issue should have 18 check-boxes
 
 There is _a lot_ of prep work for this week, but it's doable!  Remember that the goal of prep work isn't to understand everything in depth.  It's just to be familiar so that you're not hearing about these topics for the first time on Sunday.
 
@@ -150,6 +151,16 @@ All About Trees (example project): [separated](https://github.com/hackyourfuture
 ---
 
 ### Project
+
+#### Check-List
+
+```md
+- [ ] [repo](https://github.com/user-name/project-name)
+- [ ] [live](https://user-name.github.io/project-name)
+- [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
+- [ ] One branch per step in my `development-strategy.md`
+- [ ] A complete README
+```
 
 #### `acme-web-design`
 

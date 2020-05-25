@@ -37,6 +37,7 @@
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
 > - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
+> - This week should have 18 check-boxes
 
 ### Collaborating on GitHub
 
@@ -61,7 +62,7 @@
 
 ## Lesson Plan
 
-<!-- > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-2) -->
+> [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-2)
 
 Incrementally develop a simple responsive web page.
 
@@ -130,6 +131,18 @@ Redo the wireframe you built last week, but with collaboration!
 
 ### Project
 
+#### Check-List
+
+```md
+- [ ] [repo](https://github.com/user-name/project-name)
+- [ ] [live](https://user-name.github.io/project-name)
+- [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
+- [ ] One branch per step in my `development-strategy.md`
+- [ ] One closed Issue per step in my `development-strategy.md`
+- [ ] One closed Pull Request per step in my `development-strategy.md`
+- [ ] A complete README
+```
+
 #### `app-theme`
 
 > [Code-Along](http://hackyourfuture.be/homework-submission/#projects)
@@ -156,3 +169,4 @@ There are two general paths you can take to get this finished repo, neither is b
 
 - __Two-Stepping__: First - follow the tutorial studying the code and understanding the project.  Second - go through the tutorial another time, this time around focusing on using branches to create a finished repository.
 - __One-Stepping__: Follow the tutorial once more slowly, carefully building your finished repository as you go.
+

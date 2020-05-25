@@ -29,6 +29,7 @@
 > First things first:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
 > - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
+> - this week's issue should have 17 check-boxes
 
 ### GitHub Code Review
 
@@ -106,7 +107,6 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 - [Code Review](https://study.hackyourfuture.be/collaborating/code-review)
 
-
 ### Web Accessibility
 
 - [study.hackyourfuture.be](https://study.hackyourfuture.be/html-css/accessibility)
@@ -133,6 +133,19 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 ---
 
 ### Project
+
+#### Check-List
+
+```md
+- [ ] [repo](https://github.com/user-name/project-name)
+- [ ] [live](https://user-name.github.io/project-name)
+- [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
+- [ ] One branch per step in my `development-strategy.md`
+- [ ] One closed Issue per step in my `development-strategy.md` (assigned to the correct group member)
+- [ ] [A repo project board](https://github.com/user-name/project-name/projects/X) with all issues moved to "Done"
+- [ ] One closed Pull Request per step in my `development-strategy.md`  (reviewed by at least one group member)
+- [ ] A complete README
+```
 
 #### `duck-duck-clone`
 
