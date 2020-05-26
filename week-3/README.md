@@ -26,22 +26,25 @@
 
 ## Prep Work
 
-> First things first:
+> before Sunday class:
 > - [Review the Weekly Assignments guide](https://home.hackyourfuture.be/students/weekly-assignments)
 > - [Create your Homework Issue](https://home.hackyourfuture.be/students/homework-issues)
 > - this week's issue should have 17 check-boxes
 
 ### GitHub Code Review
 
-- [about them](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
-- [requesting one](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+- [about code reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
+- [requesting a code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+- linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
+- [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
 ---
 ---
 
 ## Lesson Plan
 
-<!-- > [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3) -->
+> during Sunday class
+> - [Lesson Plan Slides](https://hackyourfuture.be/incremental-development/week-3)
 
 Coordinate your collaboration with Issues, Project Boards & Pull Requests.  If you've submitted a homework assignment in the last few weeks this workflow should feel familiar :)
 
@@ -49,57 +52,40 @@ Coordinate your collaboration with Issues, Project Boards & Pull Requests.  If y
 
 Build _another_ group intro repository (this is the last time, promise :).
 
-This time you will be doing pair programming, taking turns to develop the next branch on your local machines following the collaboration workflow you learned last week.  Split your small group into pairs and begin:
+This time you will be working as a group to develop a single team repo following this development strategy:
 
-1. Choose one of you to be the repository owner, they will:
-    - Create a new repository
-    - Create a new project board with four columns: "To Do", "In Progress", "Ready for Review", "Done"
-    - Add your partner as a collaborator in your repository
-1. Together as pair you should:
-    - Write a development strategy & assign each step
-    - Create one issue per step in the development strategy & assign the issue
-    - Move all new issues to the "To Do" column of the project board
-1. Develop the steps in your strategy file using [the same workflow as last week](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two). For each step change who is driver and who is navigator. If you are the driver:
-    - Move the correct issue into "In Progress"
-    - Pull the most recent changes to your computer
-    - Follow your navigator's instructions to write the next step
-    - When you are finished, commit and push your branch
-    - On GitHub, open a pull request to `master` from your new branch
-    - Move your issue into "Ready for Review" & link your PR to your issue ([reference 1]](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
-    - Review the code as a pair then merge the changes to `master`
-    - Move on to the next step!
-1. When each pair has finished, return to your small groups and discuss:
-    - What went well? What was challenging?
-    - What conflicts did you have? How did you resolve them?
-    - What was challenging about using only CLI? What was nice about it?
+- [development strategy to issues](../isolate/development-strategy-to-issues.md)
+
+The group workflow will be like this:
+
+1. Choose one of you to be the repository owner, they will complete _step 0_ of the development strategy.
+    - When they have finished the group repo should look something like [this example repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
+1. Using the same workflow as last week, each member of the team will complete their assigned issues:
+    - Move your issue into "In Progress"
+    - Complete your task on a separate branch on your local machine
+    - When you have checked all the boxes, push your branch to GitHub
+    - Open a Pull Request and [request a review from your team mates](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+    - Move your issue into "Ready for Review" & link your PR to your issue ([reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
+1. Once everyone has created their PRs, review each PR as a group
+    - If changes need to be made, request the changes and move the issue to "Needs Revision"
+    - If everything is OK: [close te Issue using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords), and move the issue to "Done"
+1. Discuss!
+    - How was this process?
+    - Did you get conflicts?  which conflicts and how did you fix them?
 
 ### Integrate
 
-You will be building one last website matching the _semantic layout_ wireframe.  This time your entire small group will practice collaborating on one repository:
+You will be building one last website matching the _semantic layout_ wireframe.  This time your entire small group will practice collaborating on one repository, exactly like in the _Isolate_ exercise just with HTML/CSS instead of Markdown:
 
-1. Choose one person to be repository owner, they will manage the team repo but will not write any code:
-    - generate a new repository using the [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
-    - paste in [this development strategy](../integrate/development-strategy-collaborative.md) & fill out the details
-    - paste in [the semantic wireframe](../integrate/wireframe.gif)
-    - create a new project board with four columns: "To Do", "In Progress", "Ready for Review", "Done"
-    - add your group members as collaborators in your repository
-1. Repository Owner will create one issue for each step of the development strategy:
-    - give each one a helpful title and description
-    - assign each issue to a team member
-1. Each team member develops their piece of the project following [the same workflow as last week](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two) with one small change.  Instead of directly merging your pull request you will:
-    - [link your PR to your issue](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
-    - [request a review from your team's repo owner](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
-    - move your issue to "Ready for Review"
-    - wait for the rest of your group to be "Ready for Review"
-1. Once all the of the issues are in "Ready for Review", review and merge them as a team before merging:
-    - are there any merge conflicts?
-    - does each pull request contain _only_ the required code. No more, no less?
-1. Finally, turn on GitHub pages and check the results!  Did your team manage to make a recognizable website?
+- Create your group repo from the [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+- Use the [complete development strategy](../integrate/complete-developmment-strategy.md) to guide your team's work
 
 ---
 ---
 
 ## Assignments
+
+> after Sunday class
 
 ### Suggested Study
 
