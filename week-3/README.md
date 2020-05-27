@@ -52,9 +52,10 @@ Coordinate your collaboration with Issues, Project Boards & Pull Requests.  If y
 
 Build _another_ group intro repository (this is the last time, promise :).
 
-This time you will be working as a group to develop a single team repo following this development strategy:
+This time you will be working as a group to develop a single team repo:
 
-- [development strategy to issues](../isolate/development-strategy-to-issues.md)
+- [following this development strategy](../isolate/development-strategy-to-issues.md)
+- [in a repo that looks like this](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
 
 The group workflow will be like this:
 
