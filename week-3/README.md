@@ -52,9 +52,10 @@ Coordinate your collaboration with Issues, Project Boards & Pull Requests.  If y
 
 Build _another_ group intro repository (this is the last time, promise :).
 
-This time you will be working as a group to develop a single team repo following this development strategy:
+This time you will be working as a group to develop a single team repo:
 
-- [development strategy to issues](../isolate/development-strategy-to-issues.md)
+- [following this development strategy](../isolate/development-strategy-to-issues.md)
+- [in a repo that looks like this](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
 
 The group workflow will be like this:
 
@@ -65,7 +66,8 @@ The group workflow will be like this:
     - Complete your task on a separate branch on your local machine
     - When you have checked all the boxes, push your branch to GitHub
     - Open a Pull Request and [request a review from your team mates](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
-    - Move your issue into "Ready for Review" & link your PR to your issue ([reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
+    - link your PR to your issue ([reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
+    - Move your issue into "Ready for Review" 
 1. Once everyone has created their PRs, review each PR as a group
     - If changes need to be made, request the changes and move the issue to "Needs Revision"
     - If everything is OK: [close te Issue using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords), and move the issue to "Done"
