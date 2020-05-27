@@ -126,10 +126,10 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 - [ ] [repo](https://github.com/user-name/project-name)
 - [ ] [live](https://user-name.github.io/project-name)
 - [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
-- [ ] One branch per step in my `development-strategy.md`
-- [ ] One closed Issue per step in my `development-strategy.md` (assigned to the correct group member)
-- [ ] [A repo project board](https://github.com/user-name/project-name/projects/X) with all issues moved to "Done"
-- [ ] One closed Pull Request per step in my `development-strategy.md`  (reviewed by at least one group member)
+- [ ] [One branch per step in `development-strategy.md`](https://github.com/user-name/repo-name/network)
+- [ ] [One closed Issue per step in `development-strategy.md`](https://github.com/user-name/repo-name/issues?q=is%3Aissue+is%3Aclosed)
+- [ ] [One closed PR per step in `development-strategy.md`](https://github.com/user-name/repo-name/pulls?q=is%3Apr+is%3Aclosed)
+- [ ] [A project board](https://github.com/user-name/repo-name/projects/X) with all issues moved to "Done"
 - [ ] A complete README
 ```
 

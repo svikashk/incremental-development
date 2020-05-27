@@ -158,7 +158,7 @@ All About Trees (example project): [separated](https://github.com/hackyourfuture
 - [ ] [repo](https://github.com/user-name/project-name)
 - [ ] [live](https://user-name.github.io/project-name)
 - [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
-- [ ] One branch per step in my `development-strategy.md`
+- [ ] [One branch per step in my `development-strategy.md`](https://github.com/user-name/repo-name/network)
 - [ ] A complete README
 ```
 

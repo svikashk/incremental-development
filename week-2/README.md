@@ -137,9 +137,9 @@ Redo the wireframe you built last week, but with collaboration!
 - [ ] [repo](https://github.com/user-name/project-name)
 - [ ] [live](https://user-name.github.io/project-name)
 - [ ] [development-strategy](https://github.com/user-name/project-name/tree/master/development-strategy.md)
-- [ ] One branch per step in my `development-strategy.md`
-- [ ] One closed Issue per step in my `development-strategy.md`
-- [ ] One closed Pull Request per step in my `development-strategy.md`
+- [ ] [One branch per step in `development-strategy.md`](https://github.com/user-name/repo-name/network)
+- [ ] [One closed Issue per step in `development-strategy.md`](https://github.com/user-name/repo-name/issues?q=is%3Aissue+is%3Aclosed)
+- [ ] [One closed PR per step in `development-strategy.md`](https://github.com/user-name/repo-name/pulls?q=is%3Apr+is%3Aclosed)
 - [ ] A complete README
 ```
 
