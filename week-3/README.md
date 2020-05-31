@@ -67,7 +67,7 @@ The group workflow will be like this:
     - When you have checked all the boxes, push your branch to GitHub
     - Open a Pull Request and [request a review from your team mates](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
     - link your PR to your issue ([reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
-    - Move your issue into "Ready for Review" 
+    - Move your issue into "Ready for Review"
 1. Once everyone has created their PRs, review each PR as a group
     - If changes need to be made, request the changes and move the issue to "Needs Revision"
     - If everything is OK: [close te Issue using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords), and move the issue to "Done"
@@ -137,11 +137,13 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 #### `duck-duck-clone`
 
-> [Open-Ended](http://hackyourfuture.be/homework-submission/#projects)
+> [Open-Ended](https://home.hackyourfuture.be/students/weekly-assignments#projects)
 
 > Collaboration!  This project should be completed in groups of 2-3.
 
-This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible. Unlike the last two weeks, this project does not have a video tutorial for you to follow. This week you will also expected to do your best at writing _accessible_ HTML including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button.
+This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible.  If you would like to use a CSS framework, go for it! Just be sure everyone in your team uses it ;)
+
+Unlike the last two weeks, this project does not have a video tutorial for you to follow. This week you will also expected to do your best at writing _accessible_ HTML including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button.
 
 You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [the w3-validation-starter repo](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `duck-duck-clone` and should be collaboratively developed following the same workflow you practiced in class this Sunday.  It's up to you to write the development strategy!
 
@@ -152,4 +154,4 @@ We will be checking for:
 - A file called `development-strategy.md` including how you broke the project into steps, what code you wrote for each step, and who was responsible for each step.
 - A project board with one issue per step, each assigned to a team mate & linked to a pull request for review
 
-> Please add one more check-box to your weekly homework issue for your project board.
+
