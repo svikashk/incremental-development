@@ -61,6 +61,7 @@ The group workflow will be like this:
 
 1. Choose one of you to be the repository owner, they will complete _step 0_ of the development strategy.
     - When they have finished the group repo should look something like [this example repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
+    - Your repo should have: a `development-strategy`, one issue per step, each issue assigned to someone, and a project board for the issues
 1. Using the same workflow as last week, each member of the team will complete their assigned issues:
     - Move your issue into "In Progress"
     - Complete your task on a separate branch on your local machine
@@ -80,7 +81,7 @@ The group workflow will be like this:
 You will be building one last website matching the _semantic layout_ wireframe.  This time your entire small group will practice collaborating on one repository, exactly like in the _Isolate_ exercise just with HTML/CSS instead of Markdown:
 
 - Create your group repo from the [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
-- Use the [complete development strategy](../integrate/complete-developmment-strategy.md) to guide your team's work
+- Use the [complete development strategy](../integrate/complete-development-strategy.md) to guide your team's work
 
 ---
 ---
