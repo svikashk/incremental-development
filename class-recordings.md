@@ -29,6 +29,7 @@ Screen recordings of class.  Coaches, when sending your PR's with links please .
 ### Week 3
 
 * [Part 1](https://vimeo.com/424498862) - by Tiago, Stéphane & Evan
-* [Part 2](https://vimeo.com/424519483)
-* [Part 3](https://vimeo.com/424525176)
+* [Part 2](https://vimeo.com/424519483) - by Stéphane & Evan
+* [Part 3](https://vimeo.com/424525176) - by Evan
+
 
