@@ -61,6 +61,7 @@ The group workflow will be like this:
 
 1. Choose one of you to be the repository owner, they will complete _step 0_ of the development strategy.
     - When they have finished the group repo should look something like [this example repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
+    - Your repo should have: a `development-strategy`, one issue per step, each issue assigned to someone, and a project board for the issues
 1. Using the same workflow as last week, each member of the team will complete their assigned issues:
     - Move your issue into "In Progress"
     - Complete your task on a separate branch on your local machine
