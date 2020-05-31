@@ -81,7 +81,7 @@ The group workflow will be like this:
 You will be building one last website matching the _semantic layout_ wireframe.  This time your entire small group will practice collaborating on one repository, exactly like in the _Isolate_ exercise just with HTML/CSS instead of Markdown:
 
 - Create your group repo from the [w3-validation-template](https://github.com/hackyourfuturebelgium/w3-validation-template)
-- Use the [complete development strategy](../integrate/complete-developmment-strategy.md) to guide your team's work
+- Use the [complete development strategy](../integrate/complete-development-strategy.md) to guide your team's work
 
 ---
 ---
