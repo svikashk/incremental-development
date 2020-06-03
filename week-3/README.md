@@ -123,7 +123,7 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 ### Project
 
-#### Check-List
+#### Checklist
 
 ```md
 - [ ] [repo](https://github.com/user-name/project-name)
@@ -142,7 +142,7 @@ You will be building one last website matching the _semantic layout_ wireframe. 
 
 > Collaboration!  This project should be completed in groups of 2-3.
 
-This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible.  If you would like to use a CSS framework, go for it! Just be sure everyone in your team uses it ;)
+This week's project is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com/?va=z&t=hr) (long version).  We don't expect your DOM to be identical to DuckDuckGo's, but the rendered site should be visually as close as possible.  If you would like to use a CSS framework, go for it! Just be sure everyone in your team uses it ;)
 
 Unlike the last two weeks, this project does not have a video tutorial for you to follow. This week you will also expected to do your best at writing _accessible_ HTML including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button.
 

@@ -152,7 +152,7 @@ All About Trees (example project): [separated](https://github.com/hackyourfuture
 
 ### Project
 
-#### Check-List
+#### Checklist
 
 ```md
 - [ ] [repo](https://github.com/user-name/project-name)

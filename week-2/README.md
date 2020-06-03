@@ -131,7 +131,7 @@ Redo the wireframe you built last week, but with collaboration!
 
 ### Project
 
-#### Check-List
+#### Checklist
 
 ```md
 - [ ] [repo](https://github.com/user-name/project-name)
