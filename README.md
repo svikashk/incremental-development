@@ -510,6 +510,11 @@ Copy-Paste this checklist in your group issue:
 
 > Stéphane, Tiago, Marie, Unmesh
 
+- Week 1
+  - [Part 1 - before break](https://vimeo.com/462552602)
+  - [Part 2 - before break](https://vimeo.com/462554201)
+  - [Part 3 - after break](https://vimeo.com/462555843)
+
 
 
 [TOP](#incremental-development)
