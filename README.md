@@ -250,7 +250,7 @@ This week's project is **_individual_**. You will study and reverse-engineer the
 
 Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository on your GitHub account using [this starter repository](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `acme-web-design` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
 
-A good strategy to for completing this project is the __three-step__:
+A good strategy for completing this project is the __three-step__:
 1. follow the tutorial studying the code and understanding the project.
 2. look over your finished code and break it down into steps, write your development strategy.
 3. study the tutorial a second time, following your strategy to build your repository one branch at a time
