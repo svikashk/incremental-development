@@ -267,7 +267,7 @@ Copy-paste this checklist into your individual issue to share your progress with
 
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
-- [ ] [live demo](https://_.github.io/_)
+- [ ] [live demo](https://_.github.io/_) (turn on GitHub Pages)
 - [ ] [development strategy](https://github.com/_/_/tree/master/development-strategy.md)
 - [ ] [one branch per step](https://github.com/_/_/branches)
 - [ ] [one closed PR per step](https://github.com/_/_/pulls)
