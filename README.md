@@ -253,7 +253,7 @@ Writing the same code as Mr. Traversy's code is not enough! You are expected to 
 
 Your workflow for this project should be the same workflow you practiced in class.  For each step in your development strategy you should develop on a new branch. After completing the code for one step (on one branch) you should push that branch to GitHub and merge to master using a Pull Request.
 
-A good strategy to for completing this project is the __three-step__:
+A good strategy for completing this project is the __three-step__:
 
 1. follow the tutorial studying the code and understanding the project.
 2. look over your finished code and break it down into steps, write your development strategy.
