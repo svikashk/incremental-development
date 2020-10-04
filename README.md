@@ -269,7 +269,7 @@ Copy-paste this checklist into your individual issue to share your progress with
 - [ ] [repo](https://github.com/_/_) (with a complete README)
 - [ ] [live demo](https://_.github.io/_) (turn on GitHub Pages)
 - [ ] [development strategy](https://github.com/_/_/tree/master/development-strategy.md)
-- [ ] [one branch per step](https://github.com/_/_/branches)
+- [ ] [one branch per step](https://github.com/_/_/network)
 - [ ] [one closed PR per step](https://github.com/_/_/pulls)
 ```
 
@@ -370,7 +370,7 @@ Copy-paste this checklist into your individual issue to share your progress with
 - [ ] [development strategy](https://github.com/_/_/tree/master/development-strategy.md)
 - [ ] [project board w/ labeled issues](https://github.com/_/_/projects/1)
 - [ ] [issues closed by PRs](https://github.com/_/_/issues)
-- [ ] [one branch per step](https://github.com/_/_/branches)
+- [ ] [one branch per step](https://github.com/_/_/network)
 - [ ] [one closed PR per step](https://github.com/_/_/pulls)
 ```
 
@@ -470,7 +470,7 @@ Copy-Paste this checklist in your group issue:
 - [ ] [development strategy](https://github.com/_/_/tree/master/development-strategy.md)
 - [ ] [project board w/ labeled & assigned issues](https://github.com/_/_/projects/1)
 - [ ] [issues closed by PRs](https://github.com/_/_/issues)
-- [ ] [one branch per step](https://github.com/_/_/branches)
+- [ ] [one branch per step](https://github.com/_/_/network)
 - [ ] [one closed PR per step](https://github.com/_/_/pulls)
 - [ ] [multiple contributors](https://github.com/_/_/contributors)
 ```
