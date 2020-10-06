@@ -512,7 +512,7 @@ Copy-Paste this checklist in your group issue:
 
 ## [Class 11 & 12](https://hackyourfuture.be/class-11-12)
 
-> Stéphane, Tiago, Marie, Unmesh
+> Stéphane, Tiago, Marie, Unmesh, Nawang, Tamer
 
 - Week 1
   - [Part 1 - before break](https://vimeo.com/462552602)
