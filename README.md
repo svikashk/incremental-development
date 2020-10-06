@@ -519,6 +519,8 @@ Copy-Paste this checklist in your group issue:
   - [Part 2 - before break](https://vimeo.com/462554201)
   - [Part 3 - after break](https://vimeo.com/462555843)
 
-
+- Week 2
+  - [Part 1](https://vimeo.com/465288009)
+  - [Part 2](https://vimeo.com/465288632)
 
 [TOP](#incremental-development)
