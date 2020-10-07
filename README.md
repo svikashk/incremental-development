@@ -263,7 +263,7 @@ You will be assessed not only on your live demo, but also on the quality of your
 
 ### Issue Checklist
 
-Copy-paste this checklist into your individual issue to share your progress with coaches and classmates:
+Copy-paste this checklist into your individual issue in the **Week 1** section:
 
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
@@ -362,7 +362,7 @@ You will be assessed not only on your live demo, but also on the quality of your
 
 ### Issue Checklist
 
-Copy-paste this checklist into your individual issue to share your progress with coaches and classmates:
+Copy-paste this checklist into your individual issue in the **Week 2** section:
 
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
@@ -460,7 +460,7 @@ You are expected to submit your code from his tutorial in a new repository [gene
 
 ### Issue Checklist
 
-Your group will create 1 issue using the _group_ template in your class repo.  Place this issue on the _Incremental Development_ project board and track your progress there so your classmates can study your work and help you when you're stuck.
+Your group will create 1 issue using the _group_ template in your class repo.  Place this issue on the _Incremental Development_ project board and track your progress there so your classmates can study your work and help you when you're stuck.  Link to the group project issue from the **Week 3** section of your _individual_ issue.
 
 Copy-Paste this checklist in your group issue:
 
