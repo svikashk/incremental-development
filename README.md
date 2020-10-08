@@ -163,7 +163,7 @@ References, Tutorials and exercises to help you through this module
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - DevTools and the DOM
   - [How to inspect an element](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549)
-  - [inspecting-the-dom](https://hackyourfuture.be/inspecting-the-dom)
+  - [inspecting-the-dom](https://hackyourfuturebelgium.github.io/inspecting-the-dom/)
   - [Modify the DOM. (does the source change?)](https://zapier.com/blog/inspect-element-tutorial/)
 - HTML & CSS
   - FCC, Responsive Web Design: [exercises](https://www.freecodecamp.org/learn), [video](https://www.youtube.com/watch?v=srvUrASNj0s)
