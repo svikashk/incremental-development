@@ -411,6 +411,7 @@ Learn to collaborate on one repository:
 
 > before class
 
+- [Adding collaborators to a repository](https://www.youtube.com/watch?v=p49LRx3hYI8)
 - [Git Workflow for Two](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
 - [about code reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
 - [requesting a code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
@@ -424,7 +425,7 @@ Learn to collaborate on one repository:
 
 Build one last group intro repository (promise ;)
 
-Before break your will:
+Before break you will:
 
 1. Choose one of you to be the repository owner, they will complete _step 0_ of the development strategy.
     - When they have finished the group repo should look something like [this example repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
@@ -506,7 +507,7 @@ Copy-Paste this checklist in your group issue:
 - Week 3
   - [Part 1](https://vimeo.com/424498862) - Collaborating with Git & GitHub ...
   - [Part 2](https://vimeo.com/424519483) - ... continued & _fast forward_ vs _merge_ commits
-  - [Part 3](https://vimeo.com/424525176)
+  - [Part 3](https://vimeo.com/424525176) - Homework explanation
 
 ---
 
