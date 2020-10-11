@@ -507,7 +507,7 @@ Copy-Paste this checklist in your group issue:
   - [Part 2](https://vimeo.com/422149182) - Development Strategies
   - [Part 3](https://vimeo.com/422347127) - Homework explanation
 - Week 3
-  - [Part 1](https://vimeo.com/424498862) - Collaborating with Git & GitHub ...
+  - [Part 1](https://vimeo.com/424498862) - :+1: Collaborating with Git & GitHub ...
   - [Part 2](https://vimeo.com/424519483) - ... continued & _fast forward_ vs _merge_ commits
   - [Part 3](https://vimeo.com/424525176) - Homework explanation
 
