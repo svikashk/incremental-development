@@ -126,6 +126,8 @@ References, Tutorials and exercises to help you through this module
 <details>
 <summary>more info</summary>
 
+> https://htmlpreview.github.io/ - see a live demo of any branch
+
 - Incremental Development
   - [What is this?](https://www.youtube.com/watch?v=GzzkpAOxHXs)
   - [Agile Development by Cartoon](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
