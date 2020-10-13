@@ -525,9 +525,10 @@ Copy-Paste this checklist in your group issue:
   - [Part 1 - before break](https://vimeo.com/462552602)
   - [Part 2 - before break](https://vimeo.com/462554201)
   - [Part 3 - after break](https://vimeo.com/462555843)
-
 - Week 2
   - [Part 1](https://vimeo.com/465288009)
   - [Part 2](https://vimeo.com/465288632)
+- Week 3
+  - Collaboration Workflows: [part 1](https://vimeo.com/manage/467646196/general), [part 2](https://vimeo.com/manage/467646011/general)
 
 [TOP](#incremental-development)
