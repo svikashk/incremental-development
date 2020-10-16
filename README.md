@@ -19,7 +19,6 @@ Incremental Development is more about discipline than talent. Every minute you s
 - Weekly Details:
   - [Week 1](#week-1)
   - [Week 2](#week-2)
-  - [Week 3](#week-3)
 - [Class Recordings](#class-recordings)
 - [study.hackyourfuture.be](https://study.hackyourfuture.be)
 - [home.hackyourfuture.be](https://home.hackyourfuture.be/)
@@ -27,6 +26,11 @@ Incremental Development is more about discipline than talent. Every minute you s
 ---
 
 ## Module Projects
+
+Projects in Incremental Development will all have a `development-strategy.md` and be developed collaboratively.
+
+<details>
+<summary>expand/collapse</summary>
 
 In the first weeks it's likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them.  _This is totally normal and OK!_  Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!
 
@@ -53,6 +57,9 @@ Here's a short list of do's and don'ts that can help you stay on track:
 - ... move on to the next step before the previous one is finished
 
 [TOP](#incremental-development)
+
+</details>
+<br>
 
 ---
 
@@ -112,6 +119,7 @@ Skills and concepts you will learn in this module
 - Accessible Rich Internet Applications (ARIA)
 
 </details>
+<br>
 
 [TOP](#incremental-development)
 
@@ -155,10 +163,6 @@ References, Tutorials and exercises to help you through this module
     - [iTerm](https://sr6033.github.io/lterm/) - online
   - [A huge cheat sheet](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
   - [study.hyf.be](https://study.hackyourfuture.be/cli)
-- Wireframes
-  - [What are these things?](https://www.youtube.com/results?search_query=what+are+wireframes)
-  - [Why are these so great?](https://medium.com/@ray_vevaina/wireframing-a-front-end-developers-best-friend-c541df51ea65)
-  - [wireframe.cc - online wireframes](https://wireframe.cc/)
 - Writing READMEs
   - [makeareadme.com](https://www.makeareadme.com/)
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
@@ -185,6 +189,7 @@ References, Tutorials and exercises to help you through this module
   - [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
 </details>
+<br>
 
 [TOP](#incremental-development)
 
@@ -192,104 +197,13 @@ References, Tutorials and exercises to help you through this module
 
 ## Week 1
 
-Learn a basic branching workflow:
-
-0. set up your repository and clone it
-1. write a development strategy
-2. for each step
-   1. create a new branch locally
-   2. write your new code on that branch
-   3. push the branch to your repository
-   4. create a PR & merge the branch to `master`
-   5. pull the new `master` branch to your computer
-   6. continue to the next step
-
-<details>
-<summary>more info</summary>
-
-### Prep Work
-
-> before class
-
-- Git
-  - [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): 1.1, 1.2, 1.3, 1.6 & 1.7
-  - [learngitbranching](https://learngitbranching.js.org):
-    - Main, Introduction Sequence: 1, 2, 3
-    - Remotes, Pull & Push: 1 -> 6
-  - [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
-- Incremental Development
-  - [`development-strategy.md` files](https://home.hackyourfuture.be/students/development-strategy)
-  - [team branchies](https://github.com/HackYourFutureBelgium/team-branchies) (what you will build in class)
-
-### Lesson Plan
-
-> during class
-
-**Before Break**
-
-Build _another_ group intro repository?!  Your main focus this time will be understanding development strategies, and using git branches to turn the strategy into a reality.
-
-While in your small groups each group member will create _their own_ repository.  You can help each other all you need to, but you will each need to work on a separate project. There is no need to use fork each other's repos.
-
-By break time you should each have:
-
-1. (GitHub) An empty repository
-2. (your computer) A clone of your repository with:
-   1. A development strategy ([a starter file](./development-strategies/1-individual-strategy.md))
-   2. A main readme
-   3. One branch per group member with an introduction file
-
-**After Break**
-
-Time to push and merge!  In this part of class you will practice pushing to GitHub, creating pull requests, and merging branches.  By the end of class each of you should be on your way to having something [like this repository](https://github.com/HackYourFutureBelgium/team-branchies).
-
-No worries if you can't finish all at once.  You'll have the rest of the week to practice and finish ;)
-
-### Project
-
-> after class
-
-This week's project is **_individual_**. You will study and reverse-engineer the [__acme-web-design__ tutorial from Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw).
-
-Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository on your GitHub account using [this template repository](https://github.com/HackYourFutureBelgium/w3-validation-template) (about [generating with templates](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)).  Your repository should be named `acme-web-design` and should be cleanly developed with one branch per step.  It's up to you to decide what the steps are and in what order to build them.  When you have a plan for how to develop the site in steps you should write this into a development strategy!  (looking for an example strategy? [it's right here](./development-strategies/1-semantic-layout.md))
-
-Your workflow for this project should be the same workflow you practiced in class.  For each step in your development strategy you should develop on a new branch. After completing the code for one step (on one branch) you should push that branch to GitHub and merge to master using a Pull Request.
-
-A good strategy for completing this project is the __three-step__:
-
-1. follow the tutorial studying the code and understanding the project.
-2. look over your finished code and break it down into steps, write your development strategy.
-3. study the tutorial a second time, following your strategy to build your repository one branch at a time
-
-You will be assessed not only on your live demo, but also on the quality of your code, your development strategy, the correctness of your branches, and the completeness of your repository. Your repository must contain:
-
-### Issue Checklist
-
-Copy-paste this checklist into your individual issue in the **Week 1** section:
-
-```md
-- [ ] [repo](https://github.com/_/_) (with a complete README)
-- [ ] [live demo](https://_.github.io/_) (turn on GitHub Pages)
-- [ ] [development strategy](https://github.com/_/_/tree/master/development-strategy.md)
-- [ ] [one branch per step](https://github.com/_/_/network)
-- [ ] [one closed PR per step](https://github.com/_/_/pulls)
-```
-
-</details>
-
-[TOP](#incremental-development)
-
----
-
-## Week 2
-
 Learn to organize your progress with issues and a project board:
 
-0. set up your repository and clone it
-1. write a development strategy
-2. set up a project board on your repo
-3. create one issue per step, move them to the board
-4. for each step
+1. set up your repository and clone it
+2. write a development strategy
+3. set up a project board on your repo
+4. create one issue per step, move them to the board
+5. for each step
    1. move that issue into _in progress_
    2. create a new branch locally
    3. write your new code on that branch
@@ -384,7 +298,7 @@ Copy-paste this checklist into your individual issue in the **Week 2** section:
 
 ---
 
-## Week 3
+## Week 2
 
 Learn to collaborate on one repository:
 
