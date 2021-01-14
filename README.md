@@ -1,13 +1,18 @@
 # Incremental Development
 
+[<< Precourse](https://github.com/hackyourfuturebelgium/precourse) | [Home](https://home.hackyourfuture.be) | [UX/UI >>](https://github.com/ux-ui)
+
+---
+
 > "Nearly all Agile teams favor an incremental development strategy;
-in an Agile context, this means that each successive version of the product is usable,
-and each builds upon the previous version by adding user-visible functionality."
+> in an Agile context, this means that each successive version of the product is usable,
+> and each builds upon the previous version by adding user-visible functionality."
+>
 > - [agile alliance](https://www.agilealliance.org/glossary/incremental-development)
 
-_Incremental Development_ is a strategy for developing software.  In this strategy you start with the simplest code you can possibly write to get things started.  Often this is just empty files with the right names, in the right folders! Then in small steps you add more code so that each little step _works_, builds on top of the last step, and is a little closer to the end goal.
+_Incremental Development_ is a strategy for developing software. In this strategy you start with the simplest code you can possibly write to get things started. Often this is just empty files with the right names, in the right folders! Then in small steps you add more code so that each little step _works_, builds on top of the last step, and is a little closer to the end goal.
 
-This strategy is sooooo important to learn because **programming is hard**.  All developers (even your coaches!) make mistakes all the time.   The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
+This strategy is sooooo important to learn because **programming is hard**. All developers (even your coaches!) make mistakes all the time. The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
 
 Incremental Development is more about discipline than talent. Every minute you spend practicing this now will save you hours of debugging and make collaboration a breeze!
 
@@ -20,8 +25,6 @@ Incremental Development is more about discipline than talent. Every minute you s
   - [Week 1](#week-1)
   - [Week 2](#week-2)
 - [Class Recordings](#class-recordings)
-- [study.hackyourfuture.be](https://study.hackyourfuture.be)
-- [home.hackyourfuture.be](https://home.hackyourfuture.be/)
 
 ---
 
@@ -32,13 +35,13 @@ Projects in Incremental Development will all have a `development-strategy.md` an
 <details>
 <summary>expand/collapse</summary>
 
-In the first weeks it's likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them.  _This is totally normal and OK!_  Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!
+In the first weeks it's likely that you'll spend as much time figuring out how to publish and turn in your projects as you will spend building them. _This is totally normal and OK!_ Working like a developer takes time and practice to get good at, and at this point in your learning it's even more important than mastering HTML & CSS!
 
 So on days when you find yourself spending a couple hours struggling with branches, trying to push your homework or create an issue, remind yourself that it's all time well spent. Mastering these skills _now_ will free your time _later_ to focus on studying the more interesting and challenging skills in this course.
 
-Developing a working web site is not enough!  You will be expected to submit a development strategy and complete repository, cleanly developed with one branch per step. The goal of these projects is to practice planning and building clean projects in a structured way.  The goal of these projects _is not_ to build the fanciest most beautiful website, to use all the latest CSS tricks, or to use cool libraries.
+Developing a working web site is not enough! You will be expected to submit a development strategy and complete repository, cleanly developed with one branch per step. The goal of these projects is to practice planning and building clean projects in a structured way. The goal of these projects _is not_ to build the fanciest most beautiful website, to use all the latest CSS tricks, or to use cool libraries.
 
-Your repository will also need a README file explaining your project to new users.  You will be assessed not only on your working website, but also on the quality of your code, the correctness of your branches, and the completeness of your README.
+Your repository will also need a README file explaining your project to new users. You will be assessed not only on your working website, but also on the quality of your code, the correctness of your branches, and the completeness of your README.
 
 Here's a short list of do's and don'ts that can help you stay on track:
 
@@ -100,9 +103,9 @@ Skills and concepts you will learn in this module
 
 ### DOM: Basic Life-cycle
 
-1. __Source Code__: HTML & CSS files you edit in VSC
-1. __Document Object Model__: What you see in the DevTools inspector
-1. __Rendered Page__: What you see in the main browser window
+1. **Source Code**: HTML & CSS files you edit in VSC
+1. **Document Object Model**: What you see in the DevTools inspector
+1. **Rendered Page**: What you see in the main browser window
 
 ### Browser DevTools
 
@@ -185,7 +188,7 @@ References, Tutorials and exercises to help you through this module
   - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
   - Git & GitHub for Poets: [pull request & merge](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&t=0s), [resolving conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
   - The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11)
-  - linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
+  - linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
   - [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
 </details>
@@ -225,7 +228,7 @@ Learn to organize your progress with issues and a project board:
 - [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): 1.4
 - GitHub
   - [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
-  - linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
+  - linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
   - [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 - [from-strategy-to-issues](https://github.com/hackyourfuturebelgium/from-strategy-to-issues) (example repository)
 
@@ -250,7 +253,7 @@ By break time you should each have finished to step 4.4 in the week description,
 
 **After Break**
 
-Pull Requests and Merging!  In the second half of class you will practice creating and merging pull requests on GitHub, as well as linking issues to PRs and using the project boards.
+Pull Requests and Merging! In the second half of class you will practice creating and merging pull requests on GitHub, as well as linking issues to PRs and using the project boards.
 
 For each branch on GitHub you will:
 
@@ -265,13 +268,14 @@ By the end of class you should have a repository that resembles the [from-strate
 
 > after class
 
-This week's project is to study the [__app-theme__ tutorial from Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc).
+This week's project is to study the [**app-theme** tutorial from Traversy Media](https://www.youtube.com/watch?v=qlA7dputiNc).
 
-Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository on your GitHub account [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `app-theme` and should be cleanly developed with one branch per step.  It's up to you to write the development strategy!
+Writing the same code as Mr. Traversy's code is not enough! You are expected to submit your code from his tutorial in a new repository on your GitHub account [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this starter template](https://github.com/HackYourFutureBelgium/w3-validation-template). Your repository should be named `app-theme` and should be cleanly developed with one branch per step. It's up to you to write the development strategy!
 
 > You will need to use [Font Awesome 4.7](https://fontawesome.com/v4.7.0/get-started/) in your project
 
-A good strategy to for completing this project is the __three-step__:
+A good strategy to for completing this project is the **three-step**:
+
 1. follow the tutorial studying the code and understanding the project.
 2. look over your finished code and break it down into steps, write your development strategy.
 3. study the tutorial a second time, following your strategy to build your repository one branch at a time
@@ -346,42 +350,44 @@ Build one last group intro repository (promise ;)
 Before break you will:
 
 1. Choose one of you to be the repository owner, they will complete _step 0_ of the development strategy.
-    - When they have finished the group repo should look something like [this example repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
-    - Your repo should have: a `development-strategy`, one issue per step, each issue assigned to someone, and a project board for the issues
+   - When they have finished the group repo should look something like [this example repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues)
+   - Your repo should have: a `development-strategy`, one issue per step, each issue assigned to someone, and a project board for the issues
 2. Using the same workflow as last week, each member of the team will complete their assigned issues:
-    - Move your issue into "In Progress"
-    - Complete your task on a separate branch on your local machine
-    - When you have checked all the boxes, push your branch to GitHub
-    - Open a Pull Request and [request a review from your team mates](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
-    - link your PR to your issue ([reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue),  [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
-    - Move your issue into "Ready for Review"
+   - Move your issue into "In Progress"
+   - Complete your task on a separate branch on your local machine
+   - When you have checked all the boxes, push your branch to GitHub
+   - Open a Pull Request and [request a review from your team mates](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+   - link your PR to your issue ([reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/))
+   - Move your issue into "Ready for Review"
 
 **After Break**
 
 Finish what you started before break, merge everyone's branches and close off your work in the project board:
 
 3. Once everyone has created their PRs, review each PR as a group
-    - If changes need to be made, request the changes and move the issue to "Needs Revision"
-    - If everything is OK: [close te Issue using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords), and move the issue to "Done"
+   - If changes need to be made, request the changes and move the issue to "Needs Revision"
+   - If everything is OK: [close te Issue using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords), and move the issue to "Done"
 4. Discuss!
-    - How was this process?
-    - Did you get conflicts?  which conflicts and how did you fix them?
+   - How was this process?
+   - Did you get conflicts? which conflicts and how did you fix them?
 
 ### Project
 
 > after class
 
-This week's [_**group project**_](https://home.hackyourfuture.be/students/group-projects) is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com/?va=z&t=hr) (long version).  We don't expect your DOM to be identical to DuckDuckGo's, or for all the buttons to have the same behavior, but visually your site should be identical to the real DuckDuckGo.  If you would like to use a CSS framework, go for it! Just be sure everyone in your team uses it ;)
+This week's [_**group project**_](https://home.hackyourfuture.be/students/group-projects) is to build your own accessible & responsive clone of the [DuckDuckGo home page](https://duckduckgo.com/?va=z&t=hr) (long version). We don't expect your DOM to be identical to DuckDuckGo's, or for all the buttons to have the same behavior, but visually your site should be identical to the real DuckDuckGo. If you would like to use a CSS framework, go for it! Just be sure everyone in your team uses it ;)
+
+**Do not use any JavaScript!** Not allowed
 
 Unlike the last two weeks, this project does not have a video tutorial for you to follow. This week you will also expected to do your best at writing _accessible_ HTML including correct Semantic HTML and ARIA. Pay special attention to points of user interaction like the search field and submit button.
 
-You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [the w3-validation-starter repo](https://github.com/HackYourFutureBelgium/w3-validation-template).  Your repository should be named `duck-duck-clone` and should be collaboratively developed following the same workflow you practiced in class this Sunday.  It's up to you to write the development strategy!
+You are expected to submit your code from his tutorial in a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [the w3-validation-starter repo](https://github.com/HackYourFutureBelgium/w3-validation-template). Your repository should be named `duck-duck-clone` and should be collaboratively developed following the same workflow you practiced in class this Sunday. It's up to you to write the development strategy!
 
 > Read the [Group Project](https://home.hackyourfuture.be/students/group-projects) page of the guidebook _BEFORE_ beginning the project!
 
 ### Issue Checklist
 
-Your group will create 1 issue using the _group_ template in your class repo.  Place this issue on the _Incremental Development_ project board and track your progress there so your classmates can study your work and help you when you're stuck.  Link to the group project issue from the **Week 3** section of your _individual_ issue.
+Your group will create 1 issue using the _group_ template in your class repo. Place this issue on the _Incremental Development_ project board and track your progress there so your classmates can study your work and help you when you're stuck. Link to the group project issue from the **Week 3** section of your _individual_ issue.
 
 Copy-Paste this checklist in your group issue:
 
@@ -396,7 +402,6 @@ Copy-Paste this checklist in your group issue:
 - [ ] [multiple contributors](https://github.com/_/_/contributors)
 ```
 
-
 </details>
 
 [TOP](#incremental-development)
@@ -405,7 +410,7 @@ Copy-Paste this checklist in your group issue:
 
 # Class Recordings
 
-- **Students**: Here you can find recordings of this module from past classes.  Enjoy!
+- **Students**: Here you can find recordings of this module from past classes. Enjoy!
 - **Coaches**: When sending your PR's with links please ...
   - Indicate which class you were teaching
   - Which week it was (if the module is more than 1 week)
