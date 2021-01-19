@@ -16,7 +16,7 @@ When you give feedback on projects you should focus more on the students' strate
   - [common confusions](#common-confusions)
   - [week 1](#week-1)
   - [week 2](#week-2)
-  - [week 2](#week-2)
+  - [week 3](#week-3)
 - [After this Module](#after-this-module)
 - [helpful links](#helpful-links)
 
