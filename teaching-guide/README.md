@@ -166,9 +166,9 @@ Working in a team, students will reverse-engineer duckduckgo.com (visually, not 
 
 ## After this Module
 
-In the next module ([ux-ui-design](https://github.com/HackYourFutureBelgium/ux-ui-design), 2 weeks) students will learn more about User Flows and learn to use Figma to design web pages. Along the way they will learn more about project planning, including backlogs and a first taste of agile.
+In the next module ([ux-ui-design](https://github.com/HackYourFutureBelgium/ux-ui-design), 2 weeks) students will learn about design thinking, focusing on the user, and designing user journies.
 
-The project will be to design and build a personal home page.
+The project will be to design and build a personal home pages, one for themselves and one for a classmate.
 
 [TOP](#teaching-guide)
 
