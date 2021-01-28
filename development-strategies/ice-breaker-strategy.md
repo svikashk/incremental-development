@@ -1,32 +1,23 @@
-# Development Strategy
-
-> `group-intro`
+# Ice Breaker Repo
 
 A simple little website for the world to know a little about us.
 
+---
+
 ## 0. Set-Up
 
-> repository owner: _
+> repository owner: \_
 
-__A User can see a empty site at the correct URL__
-
-### Repo
-
-1. Created a new repository
-1. Add collaborators
-1. Add a license
-1. Create a README
-1. turn on GitHub Pages
-1. Write a development strategy
-1. Translate the strategy into issues (like in [this demo repo](https://github.com/hackyourfuturebelgium/from-strategy-to-issues))
+1. Understand the Project
+2. Prepare your repo for collaboration
+3. Write a Development Strategy
+4. Prepare your repo for development
 
 ---
 
 ## 1. about the team
 
-> assigned to _
-
-__As a site visitor, I want to know about your team and who is in it__
+**As a site visitor, I want to know about your team and who is in it**
 
 ### Repo
 
@@ -43,9 +34,7 @@ __As a site visitor, I want to know about your team and who is in it__
 
 ## 2. Introduce _team member_
 
-> assigned to _
-
-__As a site visitor, I want to learn more about *team member*__
+**As a site visitor, I want to learn more about _team member_**
 
 ### Repo
 
@@ -70,6 +59,4 @@ __As a site visitor, I want to learn more about *team member*__
 
 ## X. Finishing Touches
 
-> assigned to _
-
-__As a perfectionist, I want everything perfect :)__
+**As a perfectionist, I want everything perfect :)**

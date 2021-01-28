@@ -61,6 +61,7 @@ Remind students that the workflows they're encountering this week are the same w
 An introduction development strategy files and to project management features on GitHub. After you present the big picture and exploring some examples as a full class, students will break into their small groups to build an ice-breaker repository consisting of a README and one file introducing each group member (they have already built one of these in the precourse so they should have the files ready). The goal is to get some hands-on practice with project management:
 
 - beginning from a development strategy file
+  - you can use the [ice-breaker-strategy](../development-strategies/ice-breaker-strategy.md) as a starting point
 - create one milestone for each step in the dev-strategy
 - create one issue for each task in the dev-strategy (attach milestones & labels)
 - create a new branch for each issue, do the work
@@ -97,10 +98,13 @@ This week is about collaboration on a shared repository. Following the same work
 
 This class session is for getting students ready to work in groups. Answer any questions from laste week then take some time to share your personal experience and to prepare them for the challenges they will have collaborating on a project this week. For simple things like this week's HTML/CSS site, it will be more work to collaborate than to just building it alone.
 
-After this discussion, break into small groups and practice collaboration by building another group markdown repository. This time everyone will be contributors in the same repository and they will practice pushing & pulling their work:
+After this discussion, break into small groups and practice collaboration by reverse-engineering a simple HTML/CSS website, the [all-about-trees](../development-strategies/all-about-trees/development-strategy.md) material as a starting point. This time everyone will be contributors in the same repository and they will practice pushing & pulling their work:
 
 - (remind your group that this is the workflow they will follow for this week's group project)
 - beginning from a development strategy file
+  - you can use the all-about-trees strategy as a starting point
+  - take the time to make sure your group understands what the file means, and how it relates to the finished code
+  - encourage your group to make some changes for clarity if they have ideas
 - create one milestone for each step in the dev-strategy
 - create one issue for each task in the dev-strategy (attach milestones & labels)
 - place the issues in the `todo` column of a new project board (in the repo)
