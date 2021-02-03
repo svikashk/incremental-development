@@ -18,7 +18,6 @@ Incremental Development is more about discipline than talent. Every minute you s
 
 ### Contents
 
-- [Planning and Collaborating](#planning-and-collaborating)
 - [Module Projects](#module-projects)
 - [Learning Objectives](#learning-objectives)
 - [Suggested Study](#suggested-study)
@@ -26,87 +25,6 @@ Incremental Development is more about discipline than talent. Every minute you s
   - [Week 1](#week-1)
   - [Week 2](#week-2)
 - [Class Recordings](#class-recordings)
-
----
-
-## Planning and Collaborating
-
-The main focus of this module is planning and collaborating on software projects. You've already seen all the pieces you need in the Precourse! To collaborate on a group project you will need:
-
-- A planning document (markdown)
-- A repository
-- Issues
-- labels, milestones and assignees
-- A Project Board
-- Pull Requests + code review
-
-Wait, what?! HTML and CSS aren't even on that list!
-
-Understanding why they are not on the list will give you a head start towards becoming a great developer. The difference between an ok developer and a great developer doesn't have to do with the languages, frameworks or technologies they use. It has to do with their discipline in planning, communication, and collaboration.
-
-Your projects in this module may only use HTML and CSS, but the workflows you learn will be used all the way through the final project. It will go a little something like this:
-
-<details>
-<summary>expand/collapse</summary>
-<br/>
-
-### 1. Understand the Project
-
-Before diving into the code take some time with your team to understand what you will be building. It's easy to get in trouble later on if your team mates understands the project in different ways. You should be less concerned about finding the _right_ answer, and more concerned about finding a _shared_ answer.
-
-In this module having a shared understanding of the project will mean creating a **_wireframe_** to describe how your website will appear to users.
-
-### 2. Prepare your repo for collaboration
-
-Now that you all understand what you will build, it's time to set up the group's project repository. Choose a repo owner, they will:
-
-1. Add everyone in your team as a contributor
-2. Add a LICENSE
-3. Create a README.md with a short description of the project you will build
-4. Create an empty development-strategy.md file
-
-### 3. Write a Development Strategy
-
-Get together with your team and discuss the wireframe, how will you break your website into steps and tasks? When you are done with this planning session your group repository should have a complete Development Strategy with large steps and smaller tasks.
-
-You can take a look through the [./development-strategy](./development-strategy) folder of this repository to see some examples.
-
-### 4. Prepare your repo for development
-
-Now you have a plan, it's time to organize all of your tasks into issues on your repository:
-
-1. Create one **_milestone_** for each step in your strategy
-2. Create a **_label_** for each type of task in your strategy. in this module that will mean an `html` and a `css` label
-3. Create one **_issue_** for each task, classified with _labels_ and _milestones_
-4. Set up a **_project board_** with 5 columns:
-   1. _Todo_
-   2. _Blocked_
-   3. _In Progress_
-   4. _Ready for Review_
-   5. _Done_
-5. Move your issues to the _Todo_ column.
-
-Everything is set up! now all that's left is to ...
-
-### 5. Claim, Branch, Review, Merge
-
-Everything is planned and the repository is ready, it's time to start coding. You and your team mates will each work on one issue at a time, tracking your progress using the project board. You will be responsible for writing your code on a new branch, and your team mates will be responsible for reviewing and merging your code to main/master.
-
-Your workflow will look something like this flowchart:
-
-<details>
-<summary>click to see the flowchart</summary>
-<br>
-
-![claim, branch, review, merge](./assets/claim-branch-review-merge.svg)
-
-</details>
-<br/>
-
-</details>
-<br>
-
-[TOP](#incremental-development)
 
 ---
 
@@ -154,7 +72,7 @@ Here's a short list of do's and don'ts that can help you stay on track:
 Skills and concepts you will learn in this module
 
 <details>
-<summary>more info</summary>
+<summary>expand/collapse</summary>
 
 ### Incremental Development
 
@@ -218,7 +136,7 @@ Skills and concepts you will learn in this module
 References, Tutorials and exercises to help you through this module
 
 <details>
-<summary>more info</summary>
+<summary>expand/collapse</summary>
 <br>
 
 > https://htmlpreview.github.io/ - see a live demo of any branch
@@ -288,6 +206,23 @@ References, Tutorials and exercises to help you through this module
 - linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
 - [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
+### User Stories
+
+- [User Stories](https://www.youtube.com/watch?v=apOvF9NVguA)
+- Acceptance Criteria
+  - [Yodiz](https://www.yodiz.com/blog/user-stories-acceptance-definition-and-criteria-in-agile-methodologies/)
+  - [Zepel](https://zepel.io/agile/acceptance-criteria-for-user-stories/)
+  - [Ruby Garage](https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important)
+  - [The Infinity Project](https://www.youtube.com/watch?v=KYS0ptJ4JWc)
+- Setting Priorities
+  - [Many Strategies](https://zapier.com/blog/how-to-prioritize)
+  - The Priority Quadrant
+    - [The Quadrant](https://www.youtube.com/watch?v=NGvsxPOmWuw)
+    - [Problems with this method](https://www.linkedin.com/pulse/why-prioritization-impacteffort-doesnt-work-itamar-gilad)
+  - Other Perspectives
+    - [Alex Ponomarev](https://medium.com/swlh/prioritizing-user-stories-in-agile-projects-d1dd8dd79165)
+    - [Michael Lant](https://michaellant.com/2010/05/21/how-to-easily-prioritize-your-agile-stories/)
+
 </details>
 <br>
 
@@ -300,11 +235,15 @@ References, Tutorials and exercises to help you through this module
 This week will be a crash-course on how to plan, organize, and develop a software project. You will work individually to reverse-engineer a website, with finished code as a starting point.
 
 <details>
-<summary>more info</summary>
+<summary>expand/collapse</summary>
 
 ### Before Class
 
 > Do you have any questions from last week? Add the `question` label to an issue in your class repo so your coaches know what to review!
+
+[Planning and Collaboration](./planning-and-collaboration): This is the most important prep work, take your time to understand it!
+
+GitHub Features:
 
 - [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): 1.4
 - GitHub
@@ -388,7 +327,7 @@ Copy-paste this checklist into a new project issue and move your issue to the pr
 Work as a group to reverse-engineer a website, with finished code as a starting point.
 
 <details>
-<summary>more info</summary>
+<summary>expand/collapse</summary>
 
 ### Before Class
 
@@ -471,7 +410,7 @@ Copy-paste this checklist into a new project issue and move your issue to the pr
 Work as a group to reverse-engineer a website, with no code provided. You're on your own!
 
 <details>
-<summary>more info</summary>
+<summary>expand/collapse</summary>
 
 ### Before Class
 
