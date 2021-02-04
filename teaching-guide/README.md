@@ -2,7 +2,7 @@
 
 > A little guide for who ever is teaching this module, and for curious students.
 
-This Incremental Development module is a module about how to break down and plan projects, first alone and then as a team. Students will be learning about responsive design and accessibility but that happens as self-study. Class time will be spent talking about project planning and collaboration.
+This Incremental Development module is a module about how to break down and plan projects, first alone and then as a team. Students will be learning about responsive design and accessibility but that happens as self-study. Class time will be spent talking about project planning and Collaborating.
 
 The two main focuses of this module should be:
 
@@ -52,79 +52,53 @@ Students will have confusions about HTML/CSS but those are not the biggest prior
 
 ### Week 1
 
-This week is about development strategy files and GitHub project management (issues, PRs & labels/milestones). This will feel quite abstract and confusing for students at first. But we've found that with the limited time available it's better to start with the big picture and rehearse it for 3 weeks than to build up from a simpler workflow.
+This week is about project planning and GitHub project management (issues, PRs & labels/milestones). This will feel quite abstract and confusing for students at first. But we've found that with the limited time available it's better to start with the big picture and rehearse it for 3 weeks than to build up from a simpler workflow.
 
 Remind students that the workflows they're encountering this week are the same workflows they will use for all projects at HYF and are a good prep for professional collaboration. They don't need to master this in the 3 weeks of this module, just get the big idea. The details can fill in with time
 
 #### In Class
 
-An introduction development strategy files and to project management features on GitHub. After you present the big picture and exploring some examples as a full class, students will break into their small groups to build an ice-breaker repository consisting of a README and one file introducing each group member (they have already built one of these in the precourse so they should have the files ready). The goal is to get some hands-on practice with project management:
+This is the students' first day of class and their first time meeting coaches. Take all the time you need at the beginning of class for each coach to introduce themselves, tell a little about what you do as a developer, and answer questions from students.
 
-- beginning from a development strategy file
-  - you can use the [ice-breaker-strategy](../development-strategies/ice-breaker-strategy.md) as a starting point
-- create one milestone for each step in the dev-strategy
-- create one issue for each task in the dev-strategy (attach milestones & labels)
-- create a new branch for each issue, do the work
-- send a pull requests that closes each task's issue
-- two examples to get the idea:
-  - strategy to issues (coming soon)
-  - [group intro example](https://github.com/HackYourFutureBelgium/group-intro-example) (product)
+After introductions the rest of the time before break should be spent presenting the [planning-and-collaborating](../planning-and-collaborating/) folder, reading through the steps and showing the `example-all-about-trees` folder.
 
-Here are some tips and starter material to make the group time as helpful as possible:
+Break.
 
-- students can do all of the work on GitHub directly, no need to push & pull
-- students can copy-paste the markdown they wrote for the precourse
-- each student should create their own repository, this exercise will be individual (but completed all together)
-- share your screen to fill out the dev-strategy and set up the issues for each task, students can follow along on their computers
-- have the students take turn sharing their screens, each person completing one issue->branch->PR in their repo with the group's support
+The second half of class should be spent in small groups preparing for the week's project. If everything goes well each group should leave class having completed steps 1 & 2 of Planning and Collaborating for their loruki-website project (create a group repository and write a README). Kudos for any group that can make it to step 3 (starting a backlog).
+
+A good way to run class might be to spend some time as a full class reading through the finished source code in [loruki-website](../loruki-website) and discussing how you might break it into parts, and which parts you might create first. After this full-class presentation the students can break into small groups to get started.
 
 #### Homework Project
 
-> - finished code: provided
-> - strategy: provided
-> - project management: not provided
+This week's project is a group project, students will reverse-engineer the code from the [loruki-website tutorial](https://github.com/bradtraversy/loruki-website) by Brad Traversy. Each group will need to follow the steps of [planning-and-collaborating](../planning-and-collaborating) to rebuild as much of the project as they have time for.
 
-This week's project is individual, students will reverse-engineer the code from an HTML/CS tutorial video using all the proper workflows. Students will be given a development strategy and the tutorial, the rest is up to them. They should be encouraged to modify the dev-strat and tutorial code if they are comfortable.
-
-When reviewing projects you will be looking more at the quality of their branches and project management than at their live demo. The project checklist in the main README will have an overview of what to look for.
+When reviewing projects you will be looking more at the quality of their branches, planning and project management than at their live demo. The focus is on the planning and Collaborating workflows, it is better for a group to work well together and only finish a few tasks than that they rush through tasks in a disorganized way. The project checklist in the _Week 1_ section of this module repo will help you know what to look out for.
 
 ---
 
 ### Week 2
 
-This week is about collaboration on a shared repository. Following the same workflow as last week, but keeping track of issues on a project board.
+Nothing new this week, a continuation of last week. Class time will be spent taking questions from last week and presenting each group's Retrospective.
 
 #### In Class
 
-This class session is for getting students ready to work in groups. Answer any questions from laste week then take some time to share your personal experience and to prepare them for the challenges they will have collaborating on a project this week. For simple things like this week's HTML/CSS site, it will be more work to collaborate than to just building it alone.
+The first thing to cover in class will be any questions students have from last week. You should ask students to post their questions as `question` issues in the class repo. If there are no questions then you can go on to ...
 
-After this discussion, break into small groups and practice collaboration by reverse-engineering a simple HTML/CSS website, the [all-about-trees](../development-strategies/all-about-trees/development-strategy.md) material as a starting point. This time everyone will be contributors in the same repository and they will practice pushing & pulling their work:
+Each group should present their Retrospective from last week's project. Ask each group to keep their presentations to under 5 minutes to leave time for discussion before break, and so they get used to giving concise status reports.
 
-- (remind your group that this is the workflow they will follow for this week's group project)
-- beginning from a development strategy file
-  - you can use the all-about-trees strategy as a starting point
-  - take the time to make sure your group understands what the file means, and how it relates to the finished code
-  - encourage your group to make some changes for clarity if they have ideas
-- create one milestone for each step in the dev-strategy
-- create one issue for each task in the dev-strategy (attach milestones & labels)
-- place the issues in the `todo` column of a new project board (in the repo)
-- then each student takes turns sharing their screen
-  - move an issue into "in progress"
-  - create a new branch for the issue
-  - locally: pull from master, create a branch, do the work, push the branch
-  - send a pull request to merge their branch on GitHub
-  - review the PR & merge
-- you probably won't get through every issue/student, encourage them to finish this as a group over the week
+Break.
+
+The goal of your time after break should be to make sure each group is ready to start the week's project (reverse-engineering https://hackyourfuture.be). After looking through the website as a full class and discussing how you might break it into steps, you can break into small groups. What you focus on in each group will depend on what they struggled with last week. Here are some ideas:
+
+- git & CLI workflows
+- creating a wire-frame from hackyourfuture.be
+- writing a backlog based on the website
+- setting up the repository
+- discussing issue tracking and code review
 
 #### Homework Project
 
-> - finished code: provided
-> - strategy: not provided
-> - project management: not provided
-
-Students will be reverse-engineering a Traversy tutorial like last week, but as a group on a shared repository. This week they will need to write their own development strategy based on the tutorial.
-
-When reviewing projects you will be looking more at the quality of their branches and project management than at their live demo. The project checklist in the main README will have an overview of what to look for.
+This week is the beginning of a 2-week group project, the goal is to reverse-engineer as much of hackyourfuture.be as possible. Students will need to begin a repository from scratch following the steps from Planning and Collaborating.
 
 [TOP](#teaching-guide)
 
@@ -132,35 +106,25 @@ When reviewing projects you will be looking more at the quality of their branche
 
 ### Week 3
 
-The main objective this week is to learn about reverse-engineering a website. Given a live web-page, students will need to create a wireframe, inspect to find colors, and . In class this will be a very very simple HTML/CSS web page, in the week's project it will be duckduckgo.com.
+Like last week, this week will be spent reviewing the project and preparing for the coming week.
 
 #### In Class
 
-The activity in class is to walk students through how you would reverse-engineer a simple HTML/CSS website using the planning and workflows they've learned so far. The code should be very simple and you shouldn't put so much time into preparing it, even using the final step of a `/stepped` example project is okay. Depending on how well your groups work together, and how comfortable you are presenting, this week you may not want to split into small groups.
+The first thing to cover in class will be any questions students have from last week. You should ask students to post their questions as `question` issues in the class repo. If there are no questions then you can go on to ...
 
-The reverse-engineering process should look something like this:
+Each group should present a short report on their progress over the last week, a good format for this is the 3 points of a Retrospective: what went well, what went less well, lessons learned. Ask each group to keep their presentations to under 5 minutes to leave time for discussion before break, and so they get used to giving concise status reports.
 
-0. Create an empty directory where you will rebuild the project.
-1. Open the finished website and look at it without the devtools open. What are the key parts of the website?
-1. Create a wireframe for this website (wireframe.cc is good enough). Download the wireframe and save it in your project folder for later.
-1. Set up a development strategy, include: title, description, wireframe
-1. Write the steps of your strategy: in what order will you develop each piece of your wireframe?
-1. Once the steps are written, open the devtools and inspect the finished site. what elements are used to create each part of the site? what styling is used? Use these questions as a guide to fill out the tasks in each step of the strategy.
-   - you can take this one step further by downloading site assets, measuring site colors, and inspecting the site's font.
+Break.
 
-After completing this workflow together, you could do a few things depending on your class:
+The goal of your time after break should be to make sure each group is on track in their project. If there were any common troubles you can cover them as a full class before breaking out into small groups. What you focus on in each group will depend on what they struggled with last week. Here are some ideas:
 
-- start writing the HTML/CSS described in this strategy
-- guide the class through converting this strategy to a repo with issues & a project board
-- split into groups and have each group practice this workflow with a different web site
+- tidying up the project board
+- code review practice
+- scoping and priorities with only a week left
 
 #### Homework Project
 
-> - finished code: not provided
-> - strategy: not provided
-> - project management: not provided
-
-Working in a team, students will reverse-engineer duckduckgo.com (visually, not the functionality). They will be expected to write their own development strategy and collaborate on a shared repo using the workflows covered in this module.
+Finish as much as possible from hackyourfuture.be and write up a solid retrospective.
 
 [TOP](#teaching-guide)
 
