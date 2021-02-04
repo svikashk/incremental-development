@@ -16,3 +16,9 @@ Take some time as a group to compare your Development Strategy to your Project B
 - Or remove extra steps?
 
 ## The Three Questions
+
+Your group will summarize your work by providing answers to these three questions. You can have more than one answer! You can answer with bullet points, paragraphs, links, images ... whatever is most clear.
+
+- **What went well?**: be specific!
+- **What went less well?**: what mistakes did you make? did you miss a step? could your communication have been better? be specific!
+- **Lessons Learned?**: what advice would you give yourselves in the next project? This might be to do something again that went well, to avoid a mistake you made this time, or some crazy new idea to try out.

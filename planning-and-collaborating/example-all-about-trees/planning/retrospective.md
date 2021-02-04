@@ -20,7 +20,7 @@
   this could be about anything. communication, code, review, ...
 -->
 
-## Lessons Learned
+## Lessons Learned?
 
 <!--
   what can your team do differently next time to create a better project

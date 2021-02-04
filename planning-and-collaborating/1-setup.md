@@ -20,7 +20,7 @@ As a team you will choose the name for your project's repository and select some
 
 > [example planning folder](./example-all-about-trees/planning)
 
-Create a folder called `/planning` with the starter documents your team will need for planning and collaboration:
+Create a folder called `/planning` with the starter documents your team will need for planning and Collaborating:
 
 - **`/planning/README.md`**: for your communication plan
 - **`/planning/backlog.md`**: for writing and prioritize your user stories

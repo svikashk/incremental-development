@@ -15,8 +15,8 @@ The difference between an ok developer and a great developer doesn't have to do 
 
 1. [Setup](./1-setup.md)
 2. [Project Definition](./2-project-definition.md)
-3. [Backlog](./3-backlog-first-draft.md)
-4. [Development Strategy](./4-development-strategy-first-draft.md)
+3. [Backlog](./3-backlog.md)
+4. [Development Strategy](./4-development-strategy.md)
 5. [Project Board](./5-project-board.md)
 6. [Development](./6-development.md)
 7. [Retrospective](./7-retrospective.md)
