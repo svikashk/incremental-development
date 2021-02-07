@@ -1,6 +1,6 @@
 # Incremental Development
 
-[<< Precourse](https://github.com/hackyourfuturebelgium/precourse) | [Home](https://home.hackyourfuture.be) | [UX/UI Design >>](https://github.com/ux-ui-design)
+[<< Precourse](https://github.com/hackyourfuturebelgium/precourse) | [Home](https://home.hackyourfuture.be) | [UX/UI Design >>](https://github.com/hackyourfuturebelgium/ux-ui-design)
 
 ---
 
@@ -460,6 +460,12 @@ You can move your group issue into "Ready for Review" after you have finished yo
 
 ## [Class 13 & 14](https://github.com/hackyourfuturebelgium/class-13-14)
 
-> Stéphane, Tiago, Unmesh, Tamer
+> Tiago, Unmesh, Tamer, Stéphane
+
+- Week 1
+  - [Being a Developer](https://vimeo.com/509473608)
+  - [Being a Developer & Planning](https://vimeo.com/509474038)
+  - [Planning and Collaborating](https://vimeo.com/509474518)
+  - [Loruki Project](https://vimeo.com/509474798)
 
 [TOP](#incremental-development)

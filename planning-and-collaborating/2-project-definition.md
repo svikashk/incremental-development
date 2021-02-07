@@ -21,6 +21,8 @@ Set your [repository description](https://stackoverflow.com/questions/7757751/ho
 
 ## Constraints
 
+> [starter file](./example-all-about-trees/planning/constraints.md)
+
 Often the most helpful thing you can can do to define your project is to be clear about _what it isn't_. Thinking big is great for brainstorming but can get in the way of finishing your projects on time.
 
 An important step to _scoping_ your project is to discuss your group's **constraints** before you even begin thinking of user stories. Defining your constraints will help to define a realistic project and commit to it. Constraints can also help you to build a more creative project!
