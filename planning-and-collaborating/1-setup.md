@@ -12,7 +12,7 @@ As a team you will choose the name for your project's repository and select some
   - Chose a LICENSE (MIT is good)
   - Turn on GitHub Pages and set your live URL as the Website in your repository's About section
 - Collaboration Settings
-  - Add everyone in your team as a contributor with _write_ access
+  - Add everyone in your team as a contributor with _Admin_ access
   - Require a code review for PRs to `main`/`master` ([owanateamachree](https://owanateamachree.medium.com/how-to-protect-the-master-branch-on-github-ab85e9b6b03), [github docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews))
     - You will need to type `main` or `master` into the _Branch name pattern_ input box (depending on which on what your repo's default branch is named)
     - Select _Dismiss stale pull request approvals when new commits are pushed_
