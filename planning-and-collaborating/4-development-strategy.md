@@ -12,8 +12,4 @@ In the _Development Strategy_ step of your project you will begin translating yo
 
 Now that you all understand what you will build, it's time to set up the group's project repository. Get together with your team and discuss the wireframe, how will you break your website into steps and tasks? When you are done with this planning session your group repository should have a complete Development Strategy with large steps and smaller tasks.
 
-You can take a look through the [./development-strategy](./development-strategy) folder of this repository to see some examples.
 
-[TOP](#planning-and-collaborating)
-
----
