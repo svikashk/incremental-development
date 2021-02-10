@@ -147,10 +147,6 @@ References, Tutorials and exercises to help you through this module
 - [Atlassian](https://www.atlassian.com/team-playbook/plays), [Team Playbook](https://www.atlassian.com/team-playbook/plays)
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
 - [Three key parts](https://www.youtube.com/watch?v=ctFzjMygaRo)
-- [`development-strategy.md` files](https://home.hackyourfuture.be/students/development-strategy)
-- [example development strategies](./development-strategies)
-- [example group repo](https://github.com/HackYourFutureBelgium/team-branchies)
-- All About Trees: [in steps](./all-about-trees-stepped), [as a repo](https://github.com/hackyourfuturebelgium/built-with-branches)
 
 ### Git & GitHub
 
