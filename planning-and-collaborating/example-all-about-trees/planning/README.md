@@ -4,21 +4,38 @@
 
 ## Communication Schedule
 
-When and how often will you meet? what will you discuss at these meetings? ...
+| Day | Time | How | The topic of discussion |
+| --- | :--: | :-: | ----------------------- |
+|     |      |     |                         |
 
 ## Communication Channels
 
-As a team come up with a plan for how to use each communication channel. What will you discuss on each one? How often will you get in touch on each channel? Below is a starter list of different ways to communicate, go ahead and rewrite this list so it works for your team:
+### Communication channels and how often will we get in touch on each channel
 
-- **Planning Documents**:
-- **Slack Messaging**:
-- **Video Calls**:
-- **Issues**:
-- **Pull Requests**:
+- **Slack Messaging**: \_\_
+- **Slack Video Calls**: \_\_
+- **Issues**: \_\_
+- **Pull Requests**: \_\_
 
 ## Availability
 
-How many hours does everyone have? and when are you generally available?
+### Availability for calling/messaging
+
+| Day       |    name     |    name     |    name     |    name     |        name         |
+| --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
+| Monday    | after 13:00 | after 12:00 | after 10:00 |   all day   | between 12:00-14:00 |
+| Tuesday   |   all day   | after 15:00 | after 14:00 |   all day   |     after 18:00     |
+| Wednesday | after 13:00 | after 12:00 | after 10:00 | after 13:00 |     after 18:00     |
+| Thursday  |   all day   | after 12:00 |    busy     |   all day   | between 12:00-14:00 |
+| Friday    |   all day   |   all day   |    busy     |   all day   |     after 18:00     |
+
+### How many hours everyone has per day:
+
+- name: _5h_;
+- name: _6h_;
+- name: _5h_;
+- name: _4h_;
+- name: _3h_;
 
 ## Asking for Help
 
