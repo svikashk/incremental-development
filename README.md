@@ -333,7 +333,9 @@ Besides the Retrospectives, this Sunday will be all review and preparation for t
 
 > group project
 
-Your group will have 2 weeks to reverse-engineer as much of hackyourfuture.be as possible. You're on your own! Starting with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
+Your group will have 2 weeks to reverse-engineer as much of hackyourfuture.be as possible. You're on your own! If your team has some different ideas for layout or design, go for it. The HYF site is just a starting point.
+
+Starting with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
 
 Pay special attention to:
 
