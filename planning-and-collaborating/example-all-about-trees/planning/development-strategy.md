@@ -8,7 +8,9 @@ A simple little website about trees.
 
 ## Wireframe
 
-![wireframe](./wireframe.gif)
+> [diagram source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+
+![wireframe](./wireframe.svg)
 
 ---
 
