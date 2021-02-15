@@ -1,12 +1,14 @@
 # Planning
 
+## Group Rules
+
 ---
 
 ## Communication Schedule
 
-| Day | Time | How | The topic of discussion |
-| --- | :--: | :-: | ----------------------- |
-|     |      |     |                         |
+| Day | How | The topic of discussion |
+| --- | :-: | ----------------------- |
+|     |     |                         |
 
 ## Communication Channels
 

@@ -324,10 +324,11 @@ Besides the Retrospectives, this Sunday will be all review and preparation for t
 
 #### After Break
 
-1. Read over the hackyourfuture.be website as a full class
+1. Read over [step 6, Development](./planning-and-collaborating/6-development.md) all together
+1. Study the hackyourfuture.be website as a full class
    - how would you break this into small steps?
    - which pieces are most important?
-2. Break into small groups and prepare your repository for the group project
+1. Break into small groups and prepare your repository for the group project
 
 ### After Class
 
@@ -465,5 +466,9 @@ You can move your group issue into "Ready for Review" after you have finished yo
   - [Being a Developer & Planning](https://vimeo.com/509474038)
   - [Planning and Collaborating](https://vimeo.com/509474518)
   - [Loruki Project](https://vimeo.com/509474798)
+- Week 2
+  - Week 1 review: [pt. 1](https://vimeo.com/512495839), [pt. 2](https://vimeo.com/512496591), [pt. 3](https://vimeo.com/512497168)
+  - [Step 6. Development](https://vimeo.com/512497795)
+  - [Project Intro](https://vimeo.com/512498140)
 
 [TOP](#incremental-development)
