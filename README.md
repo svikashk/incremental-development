@@ -390,11 +390,11 @@ Nothing new! Come ready to discuss your group's work last week, and to share tip
 
 1. Questions & review
 2. ~5 minute status report from each group
-3. Coach-led discussion of challenges and Lessons Learned
+3. Discussion of challenges and Lessons Learned
 
 #### After Break
 
-Prepare for the week! Break into groups and meet with a coach to discuss your progress from last week, and to make plans for a success week ahead.
+Git workshop! Come ready with your questions and your git problems from the week.
 
 ### After Class
 
