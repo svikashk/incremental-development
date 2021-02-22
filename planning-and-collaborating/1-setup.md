@@ -11,6 +11,7 @@ As a team you will choose the name for your project's repository and select some
   - Initialize with an empty README
   - Chose a LICENSE (MIT is good)
   - Turn on GitHub Pages and set your live URL as the Website in your repository's About section
+  - Turn on Discussions in your repository
 - Collaboration Settings
   - Add everyone in your team as a contributor with _Admin_ access
   - Require a code review for PRs to `main`/`master` ([owanateamachree](https://owanateamachree.medium.com/how-to-protect-the-master-branch-on-github-ab85e9b6b03), [github docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews))

@@ -23,6 +23,7 @@ Some boundaries around our project.
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
+  - coding style & conventions
   - the number of hours you want to spend working
   - only using the colors black and white
   - technologies (sometimes you can choose what to use)

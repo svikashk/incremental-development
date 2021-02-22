@@ -470,5 +470,8 @@ You can move your group issue into "Ready for Review" after you have finished yo
   - Week 1 review: [pt. 1](https://vimeo.com/512495839), [pt. 2](https://vimeo.com/512496591), [pt. 3](https://vimeo.com/512497168)
   - [Step 6. Development](https://vimeo.com/512497795)
   - [Project Intro](https://vimeo.com/512498140)
+- Week 3
+  - [Week 2 review](https://vimeo.com/515205501)
+  - Using Git & GitHub: [pt. 1](https://vimeo.com/515207339), [pt. 2](https://vimeo.com/515208557)
 
 [TOP](#incremental-development)
