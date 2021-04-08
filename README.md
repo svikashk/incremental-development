@@ -10,7 +10,7 @@
 >
 > - [agile alliance](https://www.agilealliance.org/glossary/incremental-development)
 
-_Incremental Development_ is a strategy for developing software. In this strategy you start with the simplest code you can possibly write to get things started. Often this is just empty files with the right names, in the right folders! Then in small steps you add more code so that each little step _works_, builds on top of the last step, and is a little closer to the end goal.
+_Incremental Development_ is a strategy for developing software. In this strategy you start with the simplest code you can possibly write to get things started. This can even be just empty files with the right names in the right folders! Then in small steps you add more code so that each little step _works_, builds on top of the last step, and is a little closer to the end goal.
 
 This strategy is sooooo important to learn because **programming is hard**. All developers (even your coaches!) make mistakes all the time. The best way to manage mistakes is to work in small, understandable steps and making sure that each step works before moving on.
 
@@ -148,6 +148,10 @@ References, Tutorials and exercises to help you through this module
 - [Splitting User Stories](https://www.youtube.com/watch?v=EDT0HMtDwYI)
 - [Three key parts](https://www.youtube.com/watch?v=ctFzjMygaRo)
 
+### Working Together
+
+- [Managing Conflict](https://buildtogether.tech/conflict/)
+
 ### Git & GitHub
 
 - [learngitbranching](https://learngitbranching.js.org)
@@ -158,6 +162,18 @@ References, Tutorials and exercises to help you through this module
 - [The Net Ninja](https://www.youtube.com/watch?v=QV0kVNvkMxc&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=8)
 - [git-it](https://github.com/jlord/git-it-electron/)
 - [Understand how to use Atomic Commits](https://curiousprogrammer.io/blog/how-to-craft-your-changes-into-small-atomic-commits-using-git)
+
+### Collaborating on GitHub
+
+- [Adding collaborators to a repository](https://www.youtube.com/watch?v=p49LRx3hYI8)
+- [about code reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
+- [requesting a code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+- [Git Workflow for 2](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
+- [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
+- [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11)
+- linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
+- [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
 ### Command Line Interface
 
@@ -189,18 +205,6 @@ References, Tutorials and exercises to help you through this module
 - :egg: [html-css-git-exercises](https://github.com/hackyourfuturebelgium/html-css-git-exercises)
 - :hatching_chick: [HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems)
 - :hatched_chick: [css-exercises](https://github.com/dangodev/css-exercises)
-
-### Collaborating on GitHub
-
-- [Adding collaborators to a repository](https://www.youtube.com/watch?v=p49LRx3hYI8)
-- [about code reviews](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
-- [requesting a code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
-- [Git Workflow for 2](https://github.com/hackyourfuturebelgium/git-workflow-workshop-for-two)
-- [Pull Requests](https://www.youtube.com/watch?v=2M16faxEQsg)
-- [Git & GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-- The Net Ninja: [11](https://www.youtube.com/watch?v=MnUd31TvBoU&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&index=11)
-- linking PRs to Issues: [reference 1](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue), [reference 2](https://help.github.com/articles/autolinked-references-and-urls/)
-- [closing Issues using keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords)
 
 ### User Stories
 
@@ -268,6 +272,7 @@ Here's a good way to approach the group project:
 
 1. Before watching the tutorial video (aim to have this finished on Tuesday):
    - **Backlog**: Study the finished website as a group to come up with your backlog and priorities. You won't need to look at the actual code for this step, backlogs are all about what the user sees!
+   - **Wireframe**: Study the finished website as a group, comparing it to the backlog you wrote. How would you simplify the website into a wireframe?
    - **Development Strategy**: Study the finished code as a group. What code did Mr. Traversy write for each step? how would you break that code into different tasks?
    - **Project Board**: Convert your Development Strategy into issues and a project board in your group repo.
 2. While studying the tutorial individually, each group member can assign themselves tasks from the project board to practice the HTML & CSS they are learning in the tutorial.
@@ -287,6 +292,7 @@ Copy-paste this checklist into a new project issue and move your issue to the pr
   - [ ] communication plan
   - [ ] constraints
   - [ ] backlog
+  - [ ] wireframe
   - [ ] development strategy
   - [ ] retrospective
 - [ ] [project board](https://github.com/_/_/projects/1)
@@ -301,7 +307,7 @@ Copy-paste this checklist into a new project issue and move your issue to the pr
 
 ## Week 2
 
-You're on your own! This week you will start a 2-week project where your group needs to reverse-engineer a live website, without starter code.
+This week you will start a 2-week project where your group needs to reverse-engineer a live website, without any starter code.
 
 <details>
 <summary>expand/collapse</summary>
@@ -334,15 +340,18 @@ Besides the Retrospectives, this Sunday will be all review and preparation for t
 
 > group project
 
-Your group will have 2 weeks to reverse-engineer as much of hackyourfuture.be as possible. You're on your own! If your team has some different ideas for layout or design, go for it. The HYF site is just a starting point.
-
-Starting with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
+Your group will have 2 weeks to reverse-engineer as much of hackyourfuture.be as possible. If your team has some different ideas for layout or design, go for it. The HYF site is just a starting point. Beginning with an empty repository your group will need to define a backlog with priorities, create a project board full of tasks, and get coding!
 
 Pay special attention to:
 
+- [HTML/CSS Good Practice](https://www.smashingmagazine.com/2008/11/12-principles-for-keeping-your-code-clean/)
 - Using HTML5 Semantic Element
 - Accessibility
 - Responsive Design
+
+Careful! When you inspect the hackyourfuture.be the DOM, HTML and CSS will be hard to read. The class names will be meaningless, there will be many extra nested elements, and the sources will be split into many strange files. Ignore this! You aren't trying to recreate the exact code (which is actually [written in React](https://github.com/HackYourFutureBelgium/hackyourfuture.be/tree/main/src)), you're trying to **reverse-engineer** the website - creating something that _looks_, and _feels_ like hackyourfuture.be but is not.
+
+One of the challenges with this project will be inspecting hackyourfuture.be to find the _fonts_, _colors_, _assets_ and _layout_ without losing your way in the DevTools :)
 
 ### Issue Checklist
 
@@ -353,15 +362,15 @@ Copy-paste this checklist into a new project issue and move your issue to the pr
 
 ```md
 - [ ] [repo](https://github.com/_/_) (with a complete README)
-- [ ] [live demo](https://_.github.io/_) (GitHub Pages, not Netlify)
+- [ ] [live demo](https://_.github.io/_)
 - [/planning](https://github.com/_/_/tree/master/planning)
   - [ ] communication plan
   - [ ] constraints
   - [ ] backlog
+  - [ ] wireframe
   - [ ] development strategy
   - [ ] retrospective
 - [ ] [project board](https://github.com/_/_/projects/1)
-- [ ] no JavaScript!
 ```
 
 </details>
@@ -394,7 +403,7 @@ Nothing new! Come ready to discuss your group's work last week, and to share tip
 
 #### After Break
 
-Git workshop! Come ready with your questions and your git problems from the week.
+Git workshop! Come ready with your questions and your git conflicts from the week.
 
 ### After Class
 

@@ -1,10 +1,10 @@
-# 4. Backlog (_First Draft_)
+# Backlog (_First Draft_)
 
 > [example backlog](./example-example-all-about-trees/planning/backlog.md)
 
 Now that your team shared a big-picture understanding of what you will build, it's time to get specific! In the _Backlog_ step of your project you will translate your big idea into specific **User Stories**, then organize all your user stories into a clear plan.
 
-A Backlog is not a final draft! Your team is free to adjust this document during Development if you see that something does not make sense.
+A Backlog is always a rough draft! Your team may need to adjust the Backlog during Development as the project changes and evolves. Just be sure to check with your teammates before changing the document, an easy way to do this is to create a PR and request a review.
 
 ## Setting Priorities
 
@@ -22,7 +22,7 @@ Deciding how to prioritize each user story will take lots of practice, trial and
 
 The user stories in your Backlog are sorted by priority, but not written in any particular order. Some user stories depend on each other, some do not. Figuring out these relationships will make it easy to go from a unsorted backlog to a structured development strategy.
 
-Understanding these dependencies will also allow you to collaborate much more efficiently. Two people can develope different user stories at the same time if they do not depend on each other. And team mates can move on to new user stories that do not depend on yours without waiting for you to finish.
+Understanding these dependencies will also allow you to collaborate much more efficiently. Two people can develop different user stories at the same time if they do not depend on each other. And team mates can move on to new user stories that do not depend on yours without waiting for you to finish.
 
 This question is all you need to get start sequencing your user stories:
 

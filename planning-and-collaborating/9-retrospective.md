@@ -23,7 +23,7 @@ Take some time as a group to compare your Development Strategy to your Project B
 
 Your group will summarize your work by providing answers to these three questions. You can have more than one answer! You can answer with bullet points, paragraphs, links, images ... whatever is most clear.
 
-- **Stop Doing**: be specific!
-- **Continue Doing**: what mistakes did you make? did you miss a step? could your communication have been better? be specific!
-- **Start Doing Doing**
-- **Lessons Learned**: what advice would you give yourselves in the next project? This might be to do something again that went well, to avoid a mistake you made this time, or some crazy new idea to try out.
+- **Stop Doing**: what mistakes did you make? did you miss a step? could your communication have been better? be specific!
+- **Continue Doing**: what went well that you should continue doing in the next project? be specific!
+- **Start Doing**: any good ideas you'd like to try out in the next project? be specific!
+- **Lessons Learned**: what cool things or general lessons has your team learned? This can be about anything, not just code!

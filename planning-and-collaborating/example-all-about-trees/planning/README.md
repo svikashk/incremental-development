@@ -12,12 +12,12 @@
 
 ## Communication Channels
 
-### Communication channels and how often will we get in touch on each channel
+how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**: \_\_
-- **Slack Video Calls**: \_\_
-- **Issues**: \_\_
-- **Pull Requests**: \_\_
+- **Slack Messaging**:
+- **Slack Video Calls**:
+- **Issues**:
+- **Pull Requests**:
 
 ## Availability
 

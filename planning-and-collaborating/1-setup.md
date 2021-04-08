@@ -1,6 +1,6 @@
-# 1. Setup
+# Setup
 
-Before diving into your project make sure your team has all the practical things in place. This step isn't very hard and will be basically the same for every project, it will become a habit you don't need to think too much about.
+Before diving into your project make sure your team has all the practical things in place. This step isn't very hard and will be basically the same for every project, it will become habit.
 
 ## Create and Share a Repository
 
@@ -19,18 +19,32 @@ As a team you will choose the name for your project's repository and select some
     - Select _Dismiss stale pull request approvals when new commits are pushed_
 - Create your group project issue in the Class Repository and assign all your team members
 
+---
+
+## Milestones
+
+Create 5 milestones in your repository:
+
+- **planning**
+- **must-have**, **should-have**, **could-have**
+- **retrospective**
+
+---
+
 ## Planning Folder
 
 > [example planning folder](./example-all-about-trees/planning)
 
-Create a folder called `/planning` with the starter documents your team will need for planning and Collaborating:
+Create a folder called `/planning` with the empty documents your team will need for Planning and Collaborating:
 
 - **`/planning/README.md`**: for your communication plan
 - **`/planning/backlog.md`**: for writing and prioritize your user stories
+- **`/planning/constraints.md`**: for clarifying your group's limitations
 - **`/planning/development-strategy.md`**: for breaking your _must-have_ user stories into tasks
 - **`/planning/retrospective.md`**: for recapping what went well and what went less well
+- **`/planning/wireframe.md`**: for displaying your wireframe and explaining your design decisions
 
-The only file you need to fill out already is the _Communication Plan_: When and how often will your team meet? What channels of communication will your team use for which types of discussions?
+---
 
 ## Boilerplate Code
 

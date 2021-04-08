@@ -44,6 +44,6 @@ would be really cool ... if there's time:
 
 ## Story Sequencing
 
-([diagram source](https://excalidraw.com/#json=5492536709742592,eehelCbxb4yj2n5D3cTn1g))
-
 ![story sequencing graph](./story-sequencing-graph.svg)
+
+([diagram source](https://excalidraw.com/#json=5492536709742592,eehelCbxb4yj2n5D3cTn1g))

@@ -1,80 +1,82 @@
-> You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
+> The headers in this document say what labels should be attached to a task issue.
 
 # All About Trees
+
+> everything in this document should be under the `must-have` milestone
 
 A simple little website about trees.
 
 ---
 
-## Wireframe
+## `for: site-title` (_label_)
 
-> [diagram source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+> - the site title should be developed on a _feature branch_ named `site-title`.
+> - Each issue in this section should be developed on a branch of `site-title`, and merged with a PR.
+> - when all of the issues in this section have been merged to `site-title`, `site-title` can be merged to `master`
 
-![wireframe](./wireframe.svg)
+### `type: html` (_label_)
 
----
-
-## Site Title (_milestone_)
-
-### HTML (_label_)
+> all issues under this header will have `for: site-title` _and_ `type: html`
 
 - A website title for the tab (in the header of the document) (_issue_)
 - A title in the web page (_issue_)
   - [ ] uses a class "centered" (_issue checklist_)
 
-### CSS (_label_)
+### `type: css` (_label_)
+
+> all issues under this header will have `for: site-title` _and_ `type: css`
 
 - "centered" class (_issue_)
-  - [ ] centers an element horizontally along the page
+  - [ ] centers an element horizontally along the page (_issue checklist_)
 
 ---
 
-## Introduction (_milestone_)
+## `for: introduction` (_label_)
 
-### HTML (_label_)
+### `type: html` (_label_)
 
 - A section with some fascinating words (_issue_)
   - [ ] uses a "fascinating-words" class
   - [ ] is a section element
 
-### CSS (_label_)
+### `type: css` (_label_)
 
 - the "fascinating-words" class (_issue_)
 
 ---
 
-## Main Text (_milestone_)
+## `for: main-text` (_label_)
 
-### HTML (_label_)
+### `type: html` (_label_)
 
 - An article filled with wonder and interesting things (_issue_)
   - [ ] uses and "interesting-things" class
 
-### CSS (_label_)
+### `type: css` (_label_)
 
 - the "interesting-things" class (_issue_)
 
 ---
 
-## Further Reading (_milestone_)
+## `for: further-reading` (_label_)
 
-### HTML (_label_)
+### `type: html` (_label_)
 
 - An aside with a little text and a link for further reading (_issue_)
   - [ ] a link
   - [ ] the "aside-info" class
   - [ ] the "aside-text" class
 
-### CSS (_label_)
+### `type: css` (_label_)
 
 - "aside-info" class (_issue_)
 - "aside-text" class (_issue_)
 
 ---
 
-## Site Navigation (_milestone_)
+## `for: site-navigation` (_label_)
 
-### HTML (_label_)
+### `type: html` (_label_)
 
 - A navbar of site content links, clearly divided from the rest of the page (_issue_)
   - [ ] uses a "spaced-items" class
@@ -84,30 +86,30 @@ A simple little website about trees.
   - [ ] "main-info"
   - [ ] "extra-info"
 
-### CSS (_label_)
+### `type: css` (_label_)
 
 - the "spaced-items" class (_issue_)
 - the "bottom-divider" class (_issue_)
 
 ---
 
-## Contact Info (_milestone_)
+## `for: contact-info` (_label_)
 
 **As a site visitor, I want to know how I can contact the author so that I can make a new friend**
 
-### HTML (_label_)
+### `type: html` (_label_)
 
 - A separated footer with some contact links (_issue_)
   - [ ] uses the "spaced-items" class
   - [ ] uses the "top-divider" class
 
-### CSS (_label_)
+### `type: css` (_label_)
 
 - the "top-divider" class (_issue_)
 
 ---
 
-## Finishing Touches (_milestone_)
+## `for: finishing-touches` (_label_)
 
 **As a perfectionist, I want everything perfect :)**
 

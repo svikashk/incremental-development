@@ -1,19 +1,14 @@
-# 5. Project Board
+# Project Board
 
 If your team did a good job writing your Development Strategy, setting up your Project Board should be easy - pretty much copy-pasting.
-
-## Milestones
-
-Create one **_milestone_** for each section in your Development Strategy. Include your acceptance criteria in each milestone's description.
 
 ## Labels
 
 Create one **_label_** for each type of task in your strategy. In this module you will want these labels to start with:
 
-- `documentation`: any tasks that involve writing _about_ your project. ie. updating the README
-- `planning`: any tasks that involve planning your project. ie. updating the backlog
-- `html`: any task that involves writing HTML
-- `css`: any task that involves writing CSS
+- `type: documentation`: any tasks that involve writing _about_ your project. ie. updating the README
+- `type: html`: any task that involves writing HTML
+- `type: css`: any task that involves writing CSS
 
 You can always create new labels during Development if your team agrees it's necessary.
 
@@ -22,7 +17,7 @@ You can always create new labels during Development if your team agrees it's nec
 Create one **_issue_** for each task in your Development Strategy. A task in your Dev Strategy is a single bullet point. Be sure each issue has:
 
 - _labels_ to tell what types of work are included in this task
-- a _milestone_ to say what user story this task is a part of
+- a _milestone_ to say what user story this task is a part of (**planning**, **development**, **retrospective**)
 - (optional) a checklist to know what is required in this task
 
 ## Columns

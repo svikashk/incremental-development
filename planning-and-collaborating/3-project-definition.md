@@ -1,4 +1,4 @@
-# 2. Project Definition
+# Project Definition
 
 The first step to developing a software project is to make sure everyone in your team agrees on what you will be building. It's easy to get in trouble later on if you planned a larger project than you are capable of delivering, or if your team mates understand the project differently from on another.
 
