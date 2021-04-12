@@ -483,4 +483,18 @@ You can move your group issue into "Ready for Review" after you have finished yo
   - [Week 2 review](https://vimeo.com/515205501)
   - Using Git & GitHub: [pt. 1](https://vimeo.com/515207339), [pt. 2](https://vimeo.com/515208557)
 
+---
+
+## [Class 15](https://github.com/hackyourfuturebelgium/class-15)
+
+> Stéphane, Tiago, Tamer
+
+- Week 1
+  - [Part 1](https://vimeo.com/535753298)
+  - [Part 2](https://vimeo.com/535766995)
+
+- Week 2
+- Week 3
+
+
 [TOP](#incremental-development)
