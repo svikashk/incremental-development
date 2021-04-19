@@ -493,7 +493,8 @@ You can move your group issue into "Ready for Review" after you have finished yo
   - [Part 1](https://vimeo.com/535753298)
   - [Part 2](https://vimeo.com/535766995)
 
-- Week 2
+- [Week 2](https://vimeo.com/538629299)
+
 - Week 3
 
 
