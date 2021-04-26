@@ -496,6 +496,8 @@ You can move your group issue into "Ready for Review" after you have finished yo
 - [Week 2](https://vimeo.com/538629299)
 
 - Week 3
+  - [Part 1](https://vimeo.com/541538352)
+  - [Part 2]()
 
 
 [TOP](#incremental-development)
