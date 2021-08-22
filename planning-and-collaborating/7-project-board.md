@@ -27,6 +27,7 @@ Finally, create your project board and add 4 columns:
 1. **Todo**: Claimed and unclaimed issues that no one is actively working on.
 2. **Doing** Tasks someone is actively working on. Use the `help-wanted` label in this column if you are blocked.
 3. **Ready for Review**: Issues with a linked PR to review. If changes are requested you can move the issue back to _Todo_ or _Doing_.
-4. **Done**: Issues that have been closed for any reason including: the linked PR was merged, the discussion has finished, or the task is no longer necessary.
+4. **Needs Revision**: PRs that have been reviewed but are not ready to merge.  You can move this back to _Doing_ when you start fixing the code.
+5. **Done**: Issues that have been closed for any reason including: the linked PR was merged, the discussion has finished, or the task is no longer necessary.
 
 When your columns are ready, move all of your issues into the **_Todo_** column and you're ready to go!
